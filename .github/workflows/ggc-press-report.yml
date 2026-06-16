@@ -1,0 +1,66 @@
+name: GGC Press Report
+
+# 경기도의회 의원활동 언론보도 리포트 생성 (생성/저장 전용)
+# 주의: 카카오톡 '나에게 보내기'는 로컬 MCP 전용이라 이 워크플로에서는 수행하지 않는다.
+#       Actions는 report_YYYY-MM-DD.txt/.json 생성 후 artifact 업로드 + 레포 커밋까지만 한다.
+
+on:
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "날짜 YYYY-MM-DD (비우면 오늘)"
+        required: false
+        default: ""
+      party:
+        description: "정당 필터 (더불어민주당/국민의힘 등, 비우면 전체)"
+        required: false
+        default: ""
+  schedule:
+    # 매일 17:00 KST (= 08:00 UTC). 필요 시 조정.
+    - cron: "0 8 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ggc-press-report
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Seoul
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Build report
+        run: |
+          mkdir -p reports
+          GGC_OUT="$GITHUB_WORKSPACE/reports" node build_report.js "${{ github.event.inputs.date }}" "${{ github.event.inputs.party }}"
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ggc-press-report
+          path: reports/report_*.txt
+          if-no-files-found: warn
+          retention-days: 30
+
+      - name: Commit reports
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add reports/
+          if git diff --cached --quiet; then
+            echo "변경된 리포트 없음 - 커밋 생략"
+          else
+            git commit -m "report: $(date +%F) 경기도의회 의원활동 언론보도"
+            git push
+          fi
