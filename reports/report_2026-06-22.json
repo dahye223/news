@@ -1,0 +1,104 @@
+{
+  "date": "2026-06-22",
+  "total": 6,
+  "order": [
+    "농정해양위원회",
+    "경제노동위원회",
+    "도시환경위원회",
+    "의회운영위원회"
+  ],
+  "groups": {
+    "농정해양위원회": [
+      {
+        "committee": "농정해양위원회",
+        "name": "김창식",
+        "role": "부위원장",
+        "party": "더불어민주당",
+        "ggcTitle": "김창식 의원, 집행률보다 도민 체감 성과 강조",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295184?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "경기도의회 김창식 의원 \"남양주 공공심야약국 공백 해소해야\"",
+          "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1267481",
+          "outlet": "전국매일신문",
+          "pub": "2026-06-22T08:30:00.000Z"
+        }
+      },
+      {
+        "committee": "농정해양위원회",
+        "name": "전석훈",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "전석훈 의원, 예산 늘리며 생색내더니 실집행률은 3년째 바닥… 청년들 농지 못 구해",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295180?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "전석훈 의원, 청년농 영농정착지원사업 집행 부진 질타",
+          "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2441221",
+          "outlet": "enewstoday.co.kr",
+          "pub": "2026-06-22T11:35:00.000Z"
+        }
+      }
+    ],
+    "경제노동위원회": [
+      {
+        "committee": "경제노동위원회",
+        "name": "김선영",
+        "role": "부위원장",
+        "party": "더불어민주당",
+        "ggcTitle": "김선영 의원, 광주시 숙원 ‘국지도 98호선’ 개통 및 ‘경기프리미엄버스’ 운행 끝까지 챙긴다",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295182?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "김선영 경기도의원, 국지도 98호선 준공 지연 지적… “추가 연기 없어...",
+          "url": "http://www.lawissue.co.kr/view.php?ud=202606221521274929d94aa4ada6_12",
+          "outlet": "lawissue.co.kr",
+          "pub": "2026-06-22T08:24:00.000Z"
+        }
+      }
+    ],
+    "도시환경위원회": [
+      {
+        "committee": "도시환경위원회",
+        "name": "김태희",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "김태희 의원, 경기지방정원 방문자센터·정원지원센터 신축공사 추진현황 점검",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295181?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "경기도의회 김태희 의원 경기지방정원 공사 추진현황 '면밀 체크'",
+          "url": "https://www.onews.tv/news/articleView.html?idxno=281881",
+          "outlet": "onews.tv",
+          "pub": "2026-06-22T10:10:00.000Z"
+        }
+      }
+    ],
+    "의회운영위원회": [
+      {
+        "committee": "의회운영위원회",
+        "name": "성복임",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "성복임 의원, '다시 시작이다, 민주시민교육 워크숍' 참석",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295179?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "성복임 경기도의원, 민주시민교육 워크숍 참석",
+          "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1267483",
+          "outlet": "전국매일신문",
+          "pub": "2026-06-22T08:30:00.000Z"
+        }
+      },
+      {
+        "committee": "의회운영위원회",
+        "name": "윤태길",
+        "role": "의원",
+        "party": "국민의힘",
+        "ggcTitle": "윤태길 의원, '국제교류협력과 지역경제 연계 강화' 제도 개선 연구",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295178?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "경기도의회 윤태길 의원, 국제교류협력 연구용역 최종보고회 참석",
+          "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1267482",
+          "outlet": "전국매일신문",
+          "pub": "2026-06-22T08:30:00.000Z"
+        }
+      }
+    ]
+  }
+}
