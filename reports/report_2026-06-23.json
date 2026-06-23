@@ -1,0 +1,135 @@
+{
+  "date": "2026-06-23",
+  "total": 8,
+  "order": [
+    "농정해양위원회",
+    "경제노동위원회",
+    "문화체육관광위원회",
+    "여성가족평생교육위원회",
+    "기획재정위원회"
+  ],
+  "groups": {
+    "농정해양위원회": [
+      {
+        "committee": "농정해양위원회",
+        "name": "김창식",
+        "role": "부위원장",
+        "party": "더불어민주당",
+        "ggcTitle": "김창식의원, 의회 홍보도 현장 중심으로...초선의원 의정활동 지원 확대 주문",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295197?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "김창식 경기도의원 “출연금 사업, 집행률보다 결과가 중요”",
+          "url": "http://www.lawissue.co.kr/view.php?ud=202606231421424582d94aa4ada6_12",
+          "outlet": "lawissue.co.kr",
+          "pub": "2026-06-23T09:18:00.000Z"
+        }
+      },
+      {
+        "committee": "농정해양위원회",
+        "name": "윤종영",
+        "role": "의원",
+        "party": "국민의힘",
+        "ggcTitle": "윤종영 의원, 경기북부농업 R&D센터, 연구용역에 그쳐선 안 돼... 실행 가능한 단계부터 착수해야",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295189?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "윤종영 의원, \"경기북부농업 R&D센터 실행 단계로 구체화해야\"",
+          "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268020",
+          "outlet": "전국매일신문",
+          "pub": "2026-06-23T07:14:00.000Z"
+        }
+      }
+    ],
+    "경제노동위원회": [
+      {
+        "committee": "경제노동위원회",
+        "name": "이병숙",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "이병숙 의원, 독서 접근성은 누구에게나 보장되어야 할 기본 공공서비스",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295196?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "이병숙 경기도의원 “경기컬처패스 혜택 넓히고 경기북부 워케이션 특성...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/06/19/20260619500179?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-06-19T06:41:00.000Z"
+        }
+      },
+      {
+        "committee": "경제노동위원회",
+        "name": "김선영",
+        "role": "부위원장",
+        "party": "더불어민주당",
+        "ggcTitle": "김선영 의원, 주거복지는 공급을 넘어 돌봄까지... 실효성 있는 주거복지 정책 주문",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295195?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "김선영 경기도의원, 국지도 98호선 준공 지연 지적… “추가 연기 없어...",
+          "url": "http://www.lawissue.co.kr/view.php?ud=202606221521274929d94aa4ada6_12",
+          "outlet": "lawissue.co.kr",
+          "pub": "2026-06-22T08:24:00.000Z"
+        }
+      }
+    ],
+    "문화체육관광위원회": [
+      {
+        "committee": "문화체육관광위원회",
+        "name": "황대호",
+        "role": "위원장",
+        "party": "더불어민주당",
+        "ggcTitle": "황대호 의원, 율천동 밤밭청개구리공원 현장점검… 주민 의견 반영 주문",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295194?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "황대호 위원장 \"경기생태마당, 주민 목소리 반영해 완성도 높여야\"",
+          "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268031",
+          "outlet": "전국매일신문",
+          "pub": "2026-06-23T08:28:00.000Z"
+        }
+      }
+    ],
+    "여성가족평생교육위원회": [
+      {
+        "committee": "여성가족평생교육위원회",
+        "name": "김재훈",
+        "role": "의원",
+        "party": "국민의힘",
+        "ggcTitle": "김재훈 의원, ‘경기도 외국인 공공보건 접근성 향상 및 협력체계 구축 조례안’ 상임위 통과",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295193?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "김재훈 경기도의원, 외국인 공공보건 접근성 향상 조례안 상임위 통과",
+          "url": "http://www.srtimes.kr/news/articleView.html?idxno=205924",
+          "outlet": "srtimes.kr",
+          "pub": "2026-06-23T08:20:00.000Z"
+        }
+      },
+      {
+        "committee": "여성가족평생교육위원회",
+        "name": "최효숙",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "최효숙 의원, ‘외국인노동자 입국 전 사전적응 교육 지원’ 조례 개정안 상임위 통과",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295192?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "최효숙 경기도의원, 중도입국 아동·청소년 ‘입국 전 사전적응 교육’...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/06/23/20260623500232?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-06-23T08:09:00.000Z"
+        }
+      }
+    ],
+    "기획재정위원회": [
+      {
+        "committee": "기획재정위원회",
+        "name": "이채명",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "이채명 의원, AI 시대 ‘디지털 포용’ 조례 제정 추진…디지털포용 정책·예산 연계 강조",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295185?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "이채명 경기도의원, AI 시대 정보격차 해소 추진… '디지털포용 조례' 도...",
+          "url": "http://www.lawissue.co.kr/view.php?ud=202606231420108294d94aa4ada6_12",
+          "outlet": "lawissue.co.kr",
+          "pub": "2026-06-23T09:22:00.000Z"
+        }
+      }
+    ]
+  }
+}
