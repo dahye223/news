@@ -1,0 +1,155 @@
+{
+  "date": "2026-06-25",
+  "total": 9,
+  "order": [
+    "도시환경위원회",
+    "여성가족평생교육위원회",
+    "문화체육관광위원회",
+    "교육행정위원회",
+    "경제노동위원회",
+    "의회운영위원회",
+    "안전행정위원회"
+  ],
+  "groups": {
+    "도시환경위원회": [
+      {
+        "committee": "도시환경위원회",
+        "name": "문승호",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "문승호 의원, 판교 제2테크노밸리 교통개선 후속 점검 나서",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295239?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "문승호 경기도의원, 판교 제2테크노밸리 교통개선 후속 점검 나서",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/06/25/20260625500227?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-06-25T07:29:00.000Z"
+        }
+      },
+      {
+        "committee": "도시환경위원회",
+        "name": "김옥순",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "김옥순 의원, 4년 의정활동 마무리…도시환경위원회 공로패 수상",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295238?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "김옥순 경기도의원, 4년 의정활동 마무리…도시환경위원회 공로패 수상",
+          "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268871",
+          "outlet": "전국매일신문",
+          "pub": "2026-06-25T07:44:00.000Z"
+        }
+      }
+    ],
+    "여성가족평생교육위원회": [
+      {
+        "committee": "여성가족평생교육위원회",
+        "name": "최효숙",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "최효숙 의원, '경기도 청소년 중독 예방 및 치유 지원 조례' 2025년도 경기도의회 우수조례 수상 영예",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295237?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "최효숙 의원 대표발의 '청소년 중독 예방·치유 지원 조례' 우수조례 수...",
+          "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268873",
+          "outlet": "전국매일신문",
+          "pub": "2026-06-25T07:44:00.000Z"
+        }
+      },
+      {
+        "committee": "여성가족평생교육위원회",
+        "name": "유호준",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "유호준 의원. 조기 초경 시작한 9세, 10세 여아 월경용품 지원 가능해져",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295236?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "유호준 경기도의원 발의 ‘여성청소년 월경용품 지원 조례 개정안’ 본...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/06/25/20260625500195?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-06-25T06:12:00.000Z"
+        }
+      }
+    ],
+    "문화체육관광위원회": [
+      {
+        "committee": "문화체육관광위원회",
+        "name": "조미자",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "조미자 의원, 임기 마지막까지 경기북부상상캠퍼스 추진 의지… 85정비대대 이전부지 활용 촉구",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295235?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "조미자 도의원, 경기북부상상캠퍼스 추진…85정비대대 이전부지 활용 촉...",
+          "url": "http://www.joygm.com/news/articleView.html?idxno=215261",
+          "outlet": "joygm.com",
+          "pub": "2026-06-25T06:12:00.000Z"
+        }
+      }
+    ],
+    "교육행정위원회": [
+      {
+        "committee": "교육행정위원회",
+        "name": "이은주",
+        "role": "의원",
+        "party": "국민의힘",
+        "ggcTitle": "이은주 의원, 법과 제도는 마련됐다… 이제 구리교육지원청은 실행의 시간",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295234?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "이은주 경기도의원, 구리교육지원청 신설 기반 마련… \"지역사회 힘 모...",
+          "url": "http://www.lawissue.co.kr/view.php?ud=202606251418543659d94aa4ada6_12",
+          "outlet": "lawissue.co.kr",
+          "pub": "2026-06-25T08:04:00.000Z"
+        }
+      }
+    ],
+    "경제노동위원회": [
+      {
+        "committee": "경제노동위원회",
+        "name": "한원찬",
+        "role": "의원",
+        "party": "국민의힘",
+        "ggcTitle": "한원찬 의원, 제4회 경기도 상인의 날 참석, 도내 상인들의 든든한 바람막이 될 것",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295233?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "한원찬 경기도의원, 골목상권 경쟁력 강화 강조… 상인의날 참석해 \"현...",
+          "url": "http://www.lawissue.co.kr/view.php?ud=20260625141758478d94aa4ada6_12",
+          "outlet": "lawissue.co.kr",
+          "pub": "2026-06-25T08:08:00.000Z"
+        }
+      }
+    ],
+    "의회운영위원회": [
+      {
+        "committee": "의회운영위원회",
+        "name": "서성란",
+        "role": "의원",
+        "party": "국민의힘",
+        "ggcTitle": "서성란 의원, “감염병 대응은 검역 이후 지역사회 준비가 핵심”",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295230?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "서성란 도의원, \"감염병 대응은 검역 이후 지역사회 준비가 핵심\"",
+          "url": "http://www.joygm.com/news/articleView.html?idxno=215301",
+          "outlet": "joygm.com",
+          "pub": "2026-06-25T07:28:00.000Z"
+        }
+      }
+    ],
+    "안전행정위원회": [
+      {
+        "committee": "안전행정위원회",
+        "name": "안계일",
+        "role": "의원",
+        "party": "국민의힘",
+        "ggcTitle": "안계일 의원, 경기도 소방공무원 치유정책 연구회 최우수 연구단체 선정",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295229?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "안계일 경기도의원, 경기도 소방공무원 치유정책 연구회 최우수 연구단...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/06/25/20260625500053?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-06-25T01:15:00.000Z"
+        }
+      }
+    ]
+  }
+}
