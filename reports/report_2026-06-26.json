@@ -1,0 +1,138 @@
+{
+  "date": "2026-06-26",
+  "total": 8,
+  "order": [
+    "의회운영위원회",
+    "도시환경위원회",
+    "문화체육관광위원회",
+    "보건복지위원회",
+    "여성가족평생교육위원회",
+    "농정해양위원회"
+  ],
+  "groups": {
+    "의회운영위원회": [
+      {
+        "committee": "의회운영위원회",
+        "name": "변재석",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "변재석 의원, “통일로선, 고양 북부·동부권 교통격차 해소 위해 반드시 추진돼야”",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295250?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "변재석 경기도의원, 원흥도래울로 자전거도로 정비 점검… 공사 추진방...",
+          "url": "http://www.lawissue.co.kr/view.php?ud=202606261419309413d94aa4ada6_12",
+          "outlet": "lawissue.co.kr",
+          "pub": "2026-06-26T10:40:00.000Z"
+        }
+      }
+    ],
+    "도시환경위원회": [
+      {
+        "committee": "도시환경위원회",
+        "name": "김태희",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "김태희 의원, 제11대 후반기 도시환경위원회 공로패 수상",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295248?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "김태희 경기도의원, 제11대 후반기 도시환경위원회 공로패 수상",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/06/26/20260626500227?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-06-26T07:27:00.000Z"
+        }
+      },
+      {
+        "committee": "도시환경위원회",
+        "name": "박상현",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "박상현 의원, 부천시, 오정동 군부대 개발 사업의 핵심은 주민 입장에서 적극 행정 펼치는 것",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295247?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "박상현 경기도의원, 부천시, 오정동 군부대 개발 사업의 핵심은 주민 입...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/06/26/20260626500225?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-06-26T07:22:00.000Z"
+        }
+      }
+    ],
+    "문화체육관광위원회": [
+      {
+        "committee": "문화체육관광위원회",
+        "name": "황대호",
+        "role": "위원장",
+        "party": "더불어민주당",
+        "ggcTitle": "황대호 의원, 경기도의회-경기도-경기대학교 MOU 추진을 위한 정담회 개최",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295246?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "황대호 경기도의원, 경기도의회-경기도-경기대학교 MOU 추진을 위한 정...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/06/26/20260626500224?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-06-26T07:22:00.000Z"
+        }
+      }
+    ],
+    "보건복지위원회": [
+      {
+        "committee": "보건복지위원회",
+        "name": "최만식",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "최만식 의원, 장애인기능경기대회 찾아 선수들의 열정 응원",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295244?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "최만식 경기도의원, 장애인기능경기대회 참가 선수들 열정 응원",
+          "url": "https://www.m-i.kr/news/articleView.html?idxno=1385721",
+          "outlet": "m-i.kr",
+          "pub": "2026-06-26T08:04:00.000Z"
+        }
+      }
+    ],
+    "여성가족평생교육위원회": [
+      {
+        "committee": "여성가족평생교육위원회",
+        "name": "서성란",
+        "role": "의원",
+        "party": "국민의힘",
+        "ggcTitle": "서성란 의원, 제11대 의정활동 마무리… “의왕과 경기도의 내일 위해 기도하며 나아갈 것”",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295242?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "서성란 경기도의원, 의정활동 마무리… \"현장과 도민 곁에 있었던 시간...",
+          "url": "http://www.lawissue.co.kr/view.php?ud=202606261421067790d94aa4ada6_12",
+          "outlet": "lawissue.co.kr",
+          "pub": "2026-06-26T10:40:00.000Z"
+        }
+      },
+      {
+        "committee": "여성가족평생교육위원회",
+        "name": "최효숙",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "최효숙 의원, “경기도 모든 영유아에게 발달검사 지원한다”",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295241?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "경기도 모든 영유아 발달검사 지원 추진… 최효숙 의원 조례 개정안 통...",
+          "url": "https://www.kmaeil.com/news/articleView.html?idxno=643627",
+          "outlet": "kmaeil.com",
+          "pub": "2026-06-26T04:32:00.000Z"
+        }
+      }
+    ],
+    "농정해양위원회": [
+      {
+        "committee": "농정해양위원회",
+        "name": "방성환",
+        "role": "위원장",
+        "party": "국민의힘",
+        "ggcTitle": "방성환 의원, 경기 유기농문화 체험센터 오픈데이 참석",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295240?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "방성환 도의원, 경기 유기농문화 체험센터 개소 축하… \"친환경 농업 거...",
+          "url": "https://www.kmaeil.com/news/articleView.html?idxno=643629",
+          "outlet": "kmaeil.com",
+          "pub": "2026-06-26T04:34:00.000Z"
+        }
+      }
+    ]
+  }
+}
