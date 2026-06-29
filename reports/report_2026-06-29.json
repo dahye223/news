@@ -1,0 +1,59 @@
+{
+  "date": "2026-06-29",
+  "total": 3,
+  "order": [
+    "여성가족평생교육위원회",
+    "의회운영위원회",
+    "문화체육관광위원회"
+  ],
+  "groups": {
+    "여성가족평생교육위원회": [
+      {
+        "committee": "여성가족평생교육위원회",
+        "name": "최효숙",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "최효숙 의원, 외국인노동자 입국 전 언어·문화·산업안전 등 사전적응 교육 제도화",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295337?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "최효숙 경기도의원, 영유아 발달검사 지원 확대… 예방 중심 조례 개정",
+          "url": "http://www.lawissue.co.kr/view.php?ud=20260626141837822d94aa4ada6_12",
+          "outlet": "lawissue.co.kr",
+          "pub": "2026-06-26T10:44:00.000Z"
+        }
+      }
+    ],
+    "의회운영위원회": [
+      {
+        "committee": "의회운영위원회",
+        "name": "박옥분",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "박옥분 의원, 전국요양보호사협회 경기지부 요양보호사 처우개선 촉구 기자회견 참석",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295335?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "박옥분 경기도의원, 요양보호사 열악한 환경 개선 위한 실질적 예산 마...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/06/29/20260629500186?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-06-29T06:00:00.000Z"
+        }
+      }
+    ],
+    "문화체육관광위원회": [
+      {
+        "committee": "문화체육관광위원회",
+        "name": "황대호",
+        "role": "위원장",
+        "party": "더불어민주당",
+        "ggcTitle": "황대호 의원, “실용 중심 국민주권정부의 기수되겠다!!”",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295333?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "\"율천동은 '폭싹 속았수다' 같은 서로 지켜주는 곳\"…황대호, \"감사하다...",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3621081",
+          "outlet": "gukjenews.com",
+          "pub": "2026-06-29T10:20:00.000Z"
+        }
+      }
+    ]
+  }
+}
