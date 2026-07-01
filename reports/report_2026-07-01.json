@@ -1,0 +1,25 @@
+{
+  "date": "2026-07-01",
+  "total": 1,
+  "order": [
+    "의회운영위원회"
+  ],
+  "groups": {
+    "의회운영위원회": [
+      {
+        "committee": "의회운영위원회",
+        "name": "유종상",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "유종상 의원, 광명시흥 공공개발 기업 보상 이전대책 개선 촉구",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295346?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "유종상 경기도의원 “광명·시흥 공공개발, 실효성 있는 기업 보상·이전...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/01/20260701500239?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-07-01T08:04:00.000Z"
+        }
+      }
+    ]
+  }
+}
