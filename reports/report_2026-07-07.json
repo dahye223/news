@@ -1,0 +1,47 @@
+{
+  "date": "2026-07-07",
+  "total": 4,
+  "order": [
+    "의회운영위원회"
+  ],
+  "groups": {
+    "의회운영위원회": [
+      {
+        "committee": "의회운영위원회",
+        "name": "경기도",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "유호준 의원. 제12대 경기도의회 의원발의 1호 조례안 제출",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295361?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": null
+      },
+      {
+        "committee": "의회운영위원회",
+        "name": "윤종영",
+        "role": "의원",
+        "party": "국민의힘",
+        "ggcTitle": "윤종영 의원, “예산보다 큰 가치”, 군마 레클리스 기념행사 지키기 나서",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295359?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": null
+      },
+      {
+        "committee": "의회운영위원회",
+        "name": "금종례",
+        "role": "의원",
+        "party": "국민의힘",
+        "ggcTitle": "제12대 전반기 의장에 남종섭 선출...부의장에 고은정.김미숙 당선",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295358?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": null
+      },
+      {
+        "committee": "의회운영위원회",
+        "name": "경기도",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "유호준 의원, 민선9기 남양주시 성공 위해 경기도의회도 적극 협력",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295357?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": null
+      }
+    ]
+  }
+}
