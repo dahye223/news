@@ -1,0 +1,42 @@
+{
+  "date": "2026-07-13",
+  "total": 2,
+  "order": [
+    "도시환경위원회",
+    "의회운영위원회"
+  ],
+  "groups": {
+    "도시환경위원회": [
+      {
+        "committee": "도시환경위원회",
+        "name": "유호준",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "유호준 의원, GH와 협의 통해 다산지금A3 입주자 선정 절차 개선 이끌어",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295376?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "유호준 경기도의원, GH와 협의 통해 다산지금A3 추첨 제외 신청자도 심...",
+          "url": "https://www.ajunews.com/view/20260713175442298",
+          "outlet": "ajunews.com",
+          "pub": "2026-07-13T09:14:00.000Z"
+        }
+      }
+    ],
+    "의회운영위원회": [
+      {
+        "committee": "의회운영위원회",
+        "name": "김지호",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "김지호 의원, 북부분원에서 주민간담회 개최 '지역현안 청취 및 의정활동 방향 밝혀'",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295375?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "김지호 경기도의원, 북부분원서 주민간담회 개최",
+          "url": "http://www.srtimes.kr/news/articleView.html?idxno=207433",
+          "outlet": "srtimes.kr",
+          "pub": "2026-07-13T08:04:00.000Z"
+        }
+      }
+    ]
+  }
+}
