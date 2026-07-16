@@ -1,0 +1,73 @@
+{
+  "date": "2026-07-16",
+  "total": 4,
+  "order": [
+    "미래과학협력위원회",
+    "기획재정위원회",
+    "의회운영위원회"
+  ],
+  "groups": {
+    "미래과학협력위원회": [
+      {
+        "committee": "미래과학협력위원회",
+        "name": "김태형",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "경기도의회 미래과학협력위원회, “제12대 전반기 김태형 위원장 선출”",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295431?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "진통 속 원구성 합의 ‘경기도의회’…상임위원장, 민주당 12·국힘 1 선...",
+          "url": "https://www.donga.com/news/Society/article/all/20260716/134314548/1",
+          "outlet": "동아일보",
+          "pub": "2026-07-16T09:49:00.000Z"
+        }
+      }
+    ],
+    "기획재정위원회": [
+      {
+        "committee": "기획재정위원회",
+        "name": "김창식",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "기획재정위원회, 김창식 위원장 선출로 제12대 전반기 기재위 출범 알려",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295429?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "[ㄱㄱㄷ 의정 Pick] 장한별·김창식·양경석 의원 등 제12대 경기도의회...",
+          "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=759514",
+          "outlet": "consumernews.co.kr",
+          "pub": "2026-07-16T09:16:00.000Z"
+        }
+      }
+    ],
+    "의회운영위원회": [
+      {
+        "committee": "의회운영위원회",
+        "name": "이영봉",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "이영봉 의원, ‘2026 공익활동페스타’ 현안 정담회 개최... “정상 추진 방안 모색”",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295425?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "이영봉 경기도의원 ‘2026 공익활동페스타’ 현안 정담회 개최... “정상...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/16/20260716500200?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-07-16T07:44:00.000Z"
+        }
+      },
+      {
+        "committee": "의회운영위원회",
+        "name": "최경순",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "최경순 의원, 안양대교~박석교 남측 안양천변 인도 확장을 위한 협의 본격화",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295424?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "경기도의회 최경순 의원, 안양천변 인도 확장 협의 본격 추진",
+          "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2235413",
+          "outlet": "webeconomy.co.kr",
+          "pub": "2026-07-16T08:56:00.000Z"
+        }
+      }
+    ]
+  }
+}
