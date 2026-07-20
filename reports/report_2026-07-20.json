@@ -1,0 +1,413 @@
+{
+  "date": "2026-07-20",
+  "total": 27,
+  "order": [
+    "보건복지위원회",
+    "미래과학협력위원회",
+    "도시환경위원회",
+    "문화체육관광위원회",
+    "건설교통위원회",
+    "농정해양위원회",
+    "여성가족평생교육위원회",
+    "경제노동위원회",
+    "교육기획위원회"
+  ],
+  "groups": {
+    "보건복지위원회": [
+      {
+        "committee": "보건복지위원회",
+        "name": "김동규",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "보건복지위원회, 김동규 위원장 선출... 제12대 전반기 복지위 출범",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295471?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "경기도의회, 김동규 경기도의회 보건복지위원장 선출",
+          "url": "https://www.ajunews.com/view/20260720182346412",
+          "outlet": "ajunews.com",
+          "pub": "2026-07-20T09:30:00.000Z"
+        }
+      },
+      {
+        "committee": "보건복지위원회",
+        "name": "김현덕",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "김현덕 의원, 37년 현장 경험 담아 첫 의정활동… “장애 당사자의 권리가 정책의 중심에 서야”",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295469?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "“도민 체감 복지 높인다”… 경기도의회 제12대 전반기 보건복지위, 김...",
+          "url": "http://www.breaknews.com/1222917",
+          "outlet": "브레이크뉴스",
+          "pub": "2026-07-20T10:26:00.000Z"
+        }
+      }
+    ],
+    "미래과학협력위원회": [
+      {
+        "committee": "미래과학협력위원회",
+        "name": "류기준",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "류기준 의원, AI 디지털배움터, 소외받는 시군 없도록 세심하게 배정해야",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295470?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "경기도의회 미래과학협력위원회 “제12대 전반기 김태형 위원장 선출”",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/20/20260720500018?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-07-20T00:21:00.000Z"
+        }
+      },
+      {
+        "committee": "미래과학협력위원회",
+        "name": "방성환",
+        "role": "의원",
+        "party": "국민의힘",
+        "ggcTitle": "방성환 의원, AI 정책의 핵심은 사람... 전문인력과 실행계획 갖춰야",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295468?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "남종섭 경기도의장 \"민생현안 해결에 모든 역량 집중하겠다\"..의정활동...",
+          "url": "https://kpenews.com/View.aspx?No=4154849",
+          "outlet": "kpenews.com",
+          "pub": "2026-07-20T09:24:00.000Z"
+        }
+      },
+      {
+        "committee": "미래과학협력위원회",
+        "name": "박근철",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "박근철 의원, AI 고독사 예방 대응 단 한 곳도 소외받는 지역 없어야",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295457?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "'감액 추경' 앞둔 첫 경기도의회 업무보고…AI국 등 자료 부실 집중 질타",
+          "url": "https://www.kyeonggi.com/article/20260720580462",
+          "outlet": "경기일보",
+          "pub": "2026-07-20T09:23:00.000Z"
+        }
+      },
+      {
+        "committee": "미래과학협력위원회",
+        "name": "임창휘",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "임창휘 의원, “정부 ‘메가 3대 프로젝트’ 속 경기도 역차별 해소하고 독자적 AI 대형 계획 수립해야”",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295452?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "임창휘 경기도의원 “정부 ‘메가 3대 프로젝트’ 속 경기도 역차별 해...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/20/20260720500242?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-07-20T08:46:00.000Z"
+        }
+      },
+      {
+        "committee": "미래과학협력위원회",
+        "name": "유호준",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "유호준 의원, AI국 경기도 AI정책 컨트롤타워 되어야",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295449?cp=3&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "유호준 경기도의원, AI국 경기도 AI정책 컨트롤타워 되어야",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/20/20260720500232?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-07-20T08:39:00.000Z"
+        }
+      },
+      {
+        "committee": "미래과학협력위원회",
+        "name": "오남석",
+        "role": "부위원장",
+        "party": "국민의힘",
+        "ggcTitle": "오남석 의원, AI 혁신클러스터는 이제 조성이 아닌 성과를 보여줄 때",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295445?cp=3&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "오남석 경기도의원, AI 혁신클러스터는 이제 조성이 아닌 성과를 보여줄...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/20/20260720500224?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-07-20T08:31:00.000Z"
+        }
+      }
+    ],
+    "도시환경위원회": [
+      {
+        "committee": "도시환경위원회",
+        "name": "장정희",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "장정희 의원, 전세피해 지원 사각지대 해소 촉구… 외국인 지원방안 마련 주문",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295466?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "경기도의회 도시환경위, 소관 실·국 업무보고 청취로 12대 의정활동 '첫...",
+          "url": "https://www.m-i.kr/news/articleView.html?idxno=1392994",
+          "outlet": "m-i.kr",
+          "pub": "2026-07-20T05:48:00.000Z"
+        }
+      },
+      {
+        "committee": "도시환경위원회",
+        "name": "서인하",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "서인하 의원, AI국 '청년 AI 성장 바우처' 일방적 일몰 추진 질타",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295462?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "'경기도의회가 승인했는데'… 경기도, AI 바우처 예산 자체 감액 추진 논...",
+          "url": "https://www.joongboo.com/news/articleView.html?idxno=363731862",
+          "outlet": "중부일보",
+          "pub": "2026-07-20T09:22:00.000Z"
+        }
+      },
+      {
+        "committee": "도시환경위원회",
+        "name": "김일중",
+        "role": "의원",
+        "party": "국민의힘",
+        "ggcTitle": "김일중 의원, 도시환경위원회 첫 업무보고서 공공임대주택 공급 지역 불균형 개선 촉구",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295460?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "[OBS 뉴스 오늘2] 김일중 \"이천의 자랑이 되는 경기도의원 될 것\"",
+          "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1530733",
+          "outlet": "obsnews.co.kr",
+          "pub": "2026-07-15T07:32:00.000Z"
+        }
+      },
+      {
+        "committee": "도시환경위원회",
+        "name": "이혜원",
+        "role": "의원",
+        "party": "국민의힘",
+        "ggcTitle": "이혜원 의원, 도시환경위원회 부위원장 선임…첫 업무보고서 주거복지 제도 개선 주문",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295459?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "[2보] 경기도의회 도시환경위원회 회의 속개··· GH 입주자 선정 과정...",
+          "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1276063",
+          "outlet": "전국매일신문",
+          "pub": "2026-07-20T08:04:00.000Z"
+        }
+      },
+      {
+        "committee": "도시환경위원회",
+        "name": "유종상",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "유종상 의원, “전세사기 막는 AI 부동산 거래 안전망 성공 위해 전담 조직 개편 시급”",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295451?cp=3&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "유종상 경기도의원 “전세사기 막는 AI 부동산 거래 안전망 성공 위해 ...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/20/20260720500238?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-07-20T08:44:00.000Z"
+        }
+      },
+      {
+        "committee": "도시환경위원회",
+        "name": "김태희",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "김태희 의원, 경기도의회 더불어민주당 정책위원장·도시환경위원회·운영위원회 위원 선임",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295435?cp=4&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "김태희 의원, 민주당 정책위원장 선임",
+          "url": "https://www.sentv.co.kr/article/view/sentv202607200105",
+          "outlet": "sentv.co.kr",
+          "pub": "2026-07-20T07:58:00.000Z"
+        }
+      },
+      {
+        "committee": "도시환경위원회",
+        "name": "이홍근",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "이홍근 의원, 경기도의회 제12대 전반기 도시환경위원장 선출",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295434?cp=4&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "경기도의회 이홍근 의원, 제12대 전반기 도시환경위원장 선출",
+          "url": "http://www.metroseoul.co.kr/article/20260720500364",
+          "outlet": "메트로신문",
+          "pub": "2026-07-20T07:06:00.000Z"
+        }
+      }
+    ],
+    "문화체육관광위원회": [
+      {
+        "committee": "문화체육관광위원회",
+        "name": "이미정",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "이미정 의원, AI콘텐츠 교육 내실화 요청",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295465?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "경기도의회 민주당, 전반기 부대표단 구성 완료",
+          "url": "https://www.asiatime.co.kr/article/20260714500098",
+          "outlet": "asiatime.co.kr",
+          "pub": "2026-07-14T02:00:00.000Z"
+        }
+      },
+      {
+        "committee": "문화체육관광위원회",
+        "name": "채신덕",
+        "role": "위원장",
+        "party": "더불어민주당",
+        "ggcTitle": "채신덕 의원, 경기예술제 추진 검토해야…도민이 체감하는 문화정책 추진 당부",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295450?cp=3&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "채신덕 경기도의원, 경기예술제 추진 검토해야…도민이 체감하는 문화정...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/20/20260720500234?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-07-20T08:40:00.000Z"
+        }
+      },
+      {
+        "committee": "문화체육관광위원회",
+        "name": "이진형",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "제12대 전반기 문화체육관광위원회 본격 출범… 도민 체감 문화·예술·체육·관광 정책 시동",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295444?cp=3&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "경기도의회 문화체육관광위원회, 부위원장 선임...본격 의정활동 시작",
+          "url": "https://www.kmaeil.com/news/articleView.html?idxno=645856",
+          "outlet": "kmaeil.com",
+          "pub": "2026-07-20T09:08:00.000Z"
+        }
+      }
+    ],
+    "건설교통위원회": [
+      {
+        "committee": "건설교통위원회",
+        "name": "성복임",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "성복임 의원, 교통 인프라·복지 양자택일 안 돼,경기패스 이탈·똑타 플랫폼 문제 지적",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295461?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "경기도의회 전반기 상임위 출범… AI·재정·안전·돌봄 현안 과제",
+          "url": "https://www.thereport.co.kr/news/articleView.html?idxno=89709",
+          "outlet": "thereport.co.kr",
+          "pub": "2026-07-17T13:04:00.000Z"
+        }
+      },
+      {
+        "committee": "건설교통위원회",
+        "name": "윤순옥",
+        "role": "의원",
+        "party": "국민의힘",
+        "ggcTitle": "윤순옥 의원, 건설교통위원회 부위원장 선임",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295443?cp=3&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "윤순옥 경기도의원, 건설교통위원회 부위원장 선임",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/20/20260720500221?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-07-20T08:26:00.000Z"
+        }
+      },
+      {
+        "committee": "건설교통위원회",
+        "name": "김철환",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "김철환 의원, 건설교통위원회 부위원장 선임, 업무보고로 의정활동 전격 개시",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295442?cp=3&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "김철환 경기도의원, 건설교통위원회 부위원장 선임, 업무보고로 의정활...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/20/20260720500218?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-07-20T08:22:00.000Z"
+        }
+      },
+      {
+        "committee": "건설교통위원회",
+        "name": "김성수",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "김성수 의원, 제12대 경기도의회 전반기 교육행정위원장 선출",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295433?cp=4&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "김성수 경기도의원, 제12대 전반기 교육행정위원장 선출",
+          "url": "http://www.globalepic.co.kr/view.php?ud=2026072013304467655f69d33b22_29",
+          "outlet": "globalepic.co.kr",
+          "pub": "2026-07-20T07:10:00.000Z"
+        }
+      }
+    ],
+    "농정해양위원회": [
+      {
+        "committee": "농정해양위원회",
+        "name": "이은미",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "농정해양위원회, 업무보고로 제12대 전반기 첫 상임위 활동 본격 시작",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295458?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "이은미 경기도의원, 안산 소방서비스 강화 대책 점검",
+          "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1265323",
+          "outlet": "전국매일신문",
+          "pub": "2026-06-15T07:20:00.000Z"
+        }
+      }
+    ],
+    "여성가족평생교육위원회": [
+      {
+        "committee": "여성가족평생교육위원회",
+        "name": "김종배",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "김종배 의원, 첫 업무보고서 여성가족재단 ‘인력 구조·반환금’ 정조준",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295455?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "김종배 경기도의원, 첫 업무보고서 여성가족재단 ‘인력 구조·반환금’...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/20/20260720500250?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-07-20T08:56:00.000Z"
+        }
+      },
+      {
+        "committee": "여성가족평생교육위원회",
+        "name": "김용성",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "제12대 전반기 여성가족평생교육위원회 위원장에 김용성 의원 선출",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295438?cp=4&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "경기도의회 제12대 전반기 여가위 위원장에 김용성 의원 선출",
+          "url": "https://www.k-health.com/news/articleView.html?idxno=100152",
+          "outlet": "k-health.com",
+          "pub": "2026-07-20T09:58:00.000Z"
+        }
+      }
+    ],
+    "경제노동위원회": [
+      {
+        "committee": "경제노동위원회",
+        "name": "최민",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "장태환 경제노동위원장, “도민이 체감하는 민생 경제 회복 이끌 것”",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295441?cp=4&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "경기도의회 최민 의원, 경제노동위원회 부위원장 선임",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/20/20260720500193?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-07-20T07:27:00.000Z"
+        }
+      }
+    ],
+    "교육기획위원회": [
+      {
+        "committee": "교육기획위원회",
+        "name": "국중범",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "제12대 경기도의회 전반기 교육기획위원회 국중범 위원장 선출",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/295437?cp=4&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "제12대 경기도의회 전반기 교육기획위, 국중범 위원장 체제로 새 출발",
+          "url": "https://www.nspna.com/news/?mode=view&newsid=821101",
+          "outlet": "nspna.com",
+          "pub": "2026-07-20T08:02:00.000Z"
+        }
+      }
+    ]
+  }
+}
