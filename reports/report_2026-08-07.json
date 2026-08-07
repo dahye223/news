@@ -1,0 +1,273 @@
+{
+  "date": "2026-08-07",
+  "total": 17,
+  "order": [
+    "경제노동위원회",
+    "교육기획위원회",
+    "의회운영위원회",
+    "도시환경위원회",
+    "농정해양위원회",
+    "안전행정위원회",
+    "보건복지위원회",
+    "건설교통위원회",
+    "미래과학협력위원회"
+  ],
+  "groups": {
+    "경제노동위원회": [
+      {
+        "committee": "경제노동위원회",
+        "name": "이기대",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "이기대 의원. 사회연대경제의 미래는 청년... 미래세대 발굴·육성 위한 현장 간담회 개최",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296228/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "이기대 경기도의원 “사회연대경제의 미래는 청년”... 미래세대 발굴·...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/08/07/20260807500221?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-08-07T08:42:00.000Z"
+        }
+      },
+      {
+        "committee": "경제노동위원회",
+        "name": "최혜경",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "최혜경 의원, 경기도주식회사 경쟁력 강화를 위한 정책간담회 개최",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296223/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "최혜경 경기도의원, 경기도주식회사 경쟁력 강화를 위한 정책간담회 개...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/08/07/20260807500197?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-08-07T07:19:00.000Z"
+        }
+      },
+      {
+        "committee": "경제노동위원회",
+        "name": "송연섭",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "송연섭·한영수 의원, 코리아경기도주식회사와 공공배달앱 배달특급 활성화 방안 함께 모색",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296217/?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "송연섭·한영수 경기도의원, 코리아경기도주식회사와 공공배달앱 배달...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/08/07/20260807500143?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-08-07T05:14:00.000Z"
+        }
+      },
+      {
+        "committee": "경제노동위원회",
+        "name": "최민",
+        "role": "부위원장",
+        "party": "더불어민주당",
+        "ggcTitle": "경기도기술학교가 반도체 인재 산실로...최민 부위원장, 지금이 골든타임",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296211/?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "최민 경기도의원 “반도체 인재 키울 골든타임”… 경기도기술학교 혁...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/08/07/20260807500075?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-08-07T01:49:00.000Z"
+        }
+      }
+    ],
+    "교육기획위원회": [
+      {
+        "committee": "교육기획위원회",
+        "name": "박은경",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "박은경 의원, 안산 교육현안·유보통합 추진상황 점검",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296227/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "박은경 경기도의원, 안산 교육현안·유보통합 추진상황 점검",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/08/07/20260807500207?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-08-07T07:51:00.000Z"
+        }
+      },
+      {
+        "committee": "교육기획위원회",
+        "name": "김경옥",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "김경옥 의원, ‘평택 지역교육협력 운영위’·‘직업교육협의회’ 위원 위촉",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296210/?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "김경옥 경기도의원, ‘평택 지역교육협력 운영위’·‘직업교육협의회...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/08/07/20260807500069?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-08-07T01:41:00.000Z"
+        }
+      }
+    ],
+    "의회운영위원회": [
+      {
+        "committee": "의회운영위원회",
+        "name": "백승기",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "백승기 의원, 안정적인 물 복지 실현에 최선",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296225/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "백승기 경기도의원 “안정적인 물 복지 실현에 최선 다할 것”",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/08/07/20260807500203?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-08-07T07:38:00.000Z"
+        }
+      },
+      {
+        "committee": "의회운영위원회",
+        "name": "최경순",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "최경순 의원, 지역 학교환경 개선 및 안양해솔학교 진입도로 관련 면담 가져",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296222/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "최경순 경기도의원, 지역 학교환경 개선 및 안양해솔학교 진입도로 관련...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/08/07/20260807500189?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-08-07T07:03:00.000Z"
+        }
+      },
+      {
+        "committee": "의회운영위원회",
+        "name": "윤충식",
+        "role": "의원",
+        "party": "국민의힘",
+        "ggcTitle": "윤충식 의원, 포천상담소서 대진TP와 예산확보를 위한 정담회 개최",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296215/?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "윤충식 경기도의원, 포천상담소서 대진TP와 예산확보 위한 정담회 개최",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/08/07/20260807500092?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-08-07T02:11:00.000Z"
+        }
+      }
+    ],
+    "도시환경위원회": [
+      {
+        "committee": "도시환경위원회",
+        "name": "임창열",
+        "role": "부위원장",
+        "party": "더불어민주당",
+        "ggcTitle": "임창열 의원, 경기주택도시공사 구리 이전 추진 정담회 참석",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296220/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "임창열 경기도의원, 경기주택도시공사 구리 이전 추진 정담회 참석",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/08/07/20260807500163?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-08-07T06:08:00.000Z"
+        }
+      },
+      {
+        "committee": "도시환경위원회",
+        "name": "이혜원",
+        "role": "부위원장",
+        "party": "국민의힘",
+        "ggcTitle": "이혜원 부위원장, GH 공사채 운영 점검...도민 혼란 없도록 설명해야",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296214/?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "[경기도의정 모니터] 이혜원 의원, GH 공사채 운영 점검⋯ 전세임대주택...",
+          "url": "https://www.asiatime.co.kr/article/20260807500108",
+          "outlet": "asiatime.co.kr",
+          "pub": "2026-08-07T04:38:00.000Z"
+        }
+      },
+      {
+        "committee": "도시환경위원회",
+        "name": "장송회",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "장송회 의원, 이륜차 소음감시카메라 확대와 관리체계 고도화 나서",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296209/?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "장송회 경기도의원, 이륜차 소음감시카메라 확대와 관리체계 고도화 나...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/08/07/20260807500062?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-08-07T01:31:00.000Z"
+        }
+      }
+    ],
+    "농정해양위원회": [
+      {
+        "committee": "농정해양위원회",
+        "name": "김성태",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "김성태 의원, 농업인 폭염 안전망 ‘제도화’ 나선다... 온열질환 예방 조례 준비",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296219/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "김성태 경기도의원, 농업인 폭염 안전망 ‘제도화’ 나선다... 온열질환...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/08/07/20260807500155?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-08-07T05:43:00.000Z"
+        }
+      }
+    ],
+    "안전행정위원회": [
+      {
+        "committee": "안전행정위원회",
+        "name": "이성한",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "이성한 의원, 일산소방서 현장소통 정담회 가져",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296218/?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "이성한 경기도의원, 일산소방서 현장소통 정담회 가져",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/08/07/20260807500148?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-08-07T05:20:00.000Z"
+        }
+      }
+    ],
+    "보건복지위원회": [
+      {
+        "committee": "보건복지위원회",
+        "name": "김동규",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "김동규 보건복지위원장 호수중학군 교육현안 간담회 참석",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296216/?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "김동규 경기도의회 위원장 \"서로의 목소리 경청이 갈등 해결의 출발점\"",
+          "url": "https://www.m-i.kr/news/articleView.html?idxno=1400158",
+          "outlet": "m-i.kr",
+          "pub": "2026-08-07T08:26:00.000Z"
+        }
+      }
+    ],
+    "건설교통위원회": [
+      {
+        "committee": "건설교통위원회",
+        "name": "오진택",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "오진택 의원, 매향리 일대 상습침수 도로 현장 점검...당장 할 수 있는 일부터 속도감 있게 추진해야",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296213/?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "5분 만에 강으로 변하는 도로…오진택 경기도의원, 화성 매향리 침수 현...",
+          "url": "https://www.nspna.com/news/?mode=view&newsid=823495",
+          "outlet": "nspna.com",
+          "pub": "2026-08-07T06:08:00.000Z"
+        }
+      }
+    ],
+    "미래과학협력위원회": [
+      {
+        "committee": "미래과학협력위원회",
+        "name": "오남석",
+        "role": "부위원장",
+        "party": "국민의힘",
+        "ggcTitle": "오남석 의원, 반도체 기술센터 추경예산 확보 방안 논의",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296212/?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "오남석 경기도의원, 반도체 기술센터 추경예산 확보 방안 논의",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/08/07/20260807500079?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-08-07T01:54:00.000Z"
+        }
+      }
+    ]
+  }
+}
