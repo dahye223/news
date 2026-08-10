@@ -1,0 +1,203 @@
+{
+  "date": "2026-08-10",
+  "total": 12,
+  "order": [
+    "보건복지위원회",
+    "여성가족평생교육위원회",
+    "교육행정위원회",
+    "농정해양위원회",
+    "의회운영위원회",
+    "안전행정위원회",
+    "경제노동위원회",
+    "문화체육관광위원회",
+    "교육기획위원회"
+  ],
+  "groups": {
+    "보건복지위원회": [
+      {
+        "committee": "보건복지위원회",
+        "name": "명성숙",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "명성숙 의원, “안성휴게소의원 폐쇄, 결정 과정과 절차부터 따져봐야”",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296326/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "명성숙 경기도의원 “안성휴게소의원 폐쇄, 결정 과정과 절차부터 따져...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/08/10/20260810500215?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-08-10T08:33:00.000Z"
+        }
+      },
+      {
+        "committee": "보건복지위원회",
+        "name": "문승호",
+        "role": "부위원장",
+        "party": "더불어민주당",
+        "ggcTitle": "문승호 의원, ‘잊지 말아야 할 역사’ 일본군위안부 피해자 기림의 날 참석",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296239/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "문승호 경기도의원, ‘잊지 말아야 할 역사’ 일본군위안부 피해자 기림...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/08/10/20260810500144?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-08-10T05:59:00.000Z"
+        }
+      },
+      {
+        "committee": "보건복지위원회",
+        "name": "이건희",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "이건희 의원, 경기도립 안성휴게소 의원 폐쇄 신중해야… 공공의료는 경제성만으로 판단할 수 없어",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296230/?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "이건희 경기도의원 \"경기도립 안성휴게소 의원 폐쇄 신중해야\"",
+          "url": "https://www.k-health.com/news/articleView.html?idxno=100562",
+          "outlet": "k-health.com",
+          "pub": "2026-08-10T05:32:00.000Z"
+        }
+      }
+    ],
+    "여성가족평생교육위원회": [
+      {
+        "committee": "여성가족평생교육위원회",
+        "name": "금종례",
+        "role": "의원",
+        "party": "국민의힘",
+        "ggcTitle": "금종례 의원, 경기여성정책네트워크 제5기 출범 준비 간담회",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296325/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "금종례 의원, 경기여성정책네트워크 5기 준비 간담회 개최",
+          "url": "https://www.kmaeil.com/news/articleView.html?idxno=648031",
+          "outlet": "kmaeil.com",
+          "pub": "2026-08-10T07:34:00.000Z"
+        }
+      }
+    ],
+    "교육행정위원회": [
+      {
+        "committee": "교육행정위원회",
+        "name": "엄교섭",
+        "role": "부위원장",
+        "party": "더불어민주당",
+        "ggcTitle": "엄교섭 의원, 특수교육 대상학생 교육권 보장 위한 학부모·교육청 간담회 개최",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296324/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "엄교섭 경기도의원, 특수교육 대상학생 교육권 보장 위한 학부모·교육...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/08/10/20260810500159?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-08-10T06:39:00.000Z"
+        }
+      }
+    ],
+    "농정해양위원회": [
+      {
+        "committee": "농정해양위원회",
+        "name": "김미숙",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "김미숙 부의장, 산본고·태을초 통학로 안전개선 총력… 관계기관 머리 맞대",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296323/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "김미숙 의원, 산본고·태을초 통학로 점검… 보행안전 개선방안 마련 촉...",
+          "url": "https://www.kmaeil.com/news/articleView.html?idxno=648034",
+          "outlet": "kmaeil.com",
+          "pub": "2026-08-10T07:40:00.000Z"
+        }
+      }
+    ],
+    "의회운영위원회": [
+      {
+        "committee": "의회운영위원회",
+        "name": "경기도",
+        "role": "의원",
+        "party": "조국혁신당",
+        "ggcTitle": "차유미 의원, 장애교원 교육현장 제도적 장벽 개선 나선다",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296238/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "[] 최동식 경기도의원 “기업하기 좋은 경기도, 의회가 앞장서야”",
+          "url": "https://www.kgnews.co.kr/news/article.html?no=907112",
+          "outlet": "경기신문",
+          "pub": "2026-08-10T08:54:00.000Z"
+        }
+      }
+    ],
+    "안전행정위원회": [
+      {
+        "committee": "안전행정위원회",
+        "name": "양경석",
+        "role": "위원장",
+        "party": "더불어민주당",
+        "ggcTitle": "양경석 안전행정위원장, 송탄소방서 현장 찾아... “소방정책의 답은 현장에 있다”",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296237/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "양경석 경기도의회 안전행정위원장, 송탄소방서 현장 점검",
+          "url": "http://www.srtimes.kr/news/articleView.html?idxno=209567",
+          "outlet": "srtimes.kr",
+          "pub": "2026-08-10T08:26:00.000Z"
+        }
+      }
+    ],
+    "경제노동위원회": [
+      {
+        "committee": "경제노동위원회",
+        "name": "오현정",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "오현정 의원, ‘제11회 대한민국 청소년 교향악축제’ 화성 공연 참석… 청소년 연주자 격려",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296235/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "오현정 경기도의원, 화성 청소년 교향악 공연 찾아 연주자 격려",
+          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5049928",
+          "outlet": "shinailbo.co.kr",
+          "pub": "2026-08-10T07:26:00.000Z"
+        }
+      }
+    ],
+    "문화체육관광위원회": [
+      {
+        "committee": "문화체육관광위원회",
+        "name": "이오수",
+        "role": "부위원장",
+        "party": "국민의힘",
+        "ggcTitle": "이오수 의원, 전국 최초 ‘수변문화관광 거점 육성’ 조례 제정 추진",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296234/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "이오수 경기도의원, 수변공간 문화·관광자원 육성 조례 추진",
+          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5049933",
+          "outlet": "shinailbo.co.kr",
+          "pub": "2026-08-10T07:26:00.000Z"
+        }
+      },
+      {
+        "committee": "문화체육관광위원회",
+        "name": "안시현",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "안시현 의원, 소요산 관광 거점시설 조성 현장 점검",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296232/?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "안시현 경기도의원, 소요산권 관광 거점시설 조성사업 현장 점검",
+          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5049935",
+          "outlet": "shinailbo.co.kr",
+          "pub": "2026-08-10T07:26:00.000Z"
+        }
+      }
+    ],
+    "교육기획위원회": [
+      {
+        "committee": "교육기획위원회",
+        "name": "조병진",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "조병진 의원, “교육활동 보호, 제도 정비 넘어 상호 존중 교육공동체 회복해야”",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296231/?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "조병진 경기도의원, 교권 보호 넘어 '교육공동체 회복' 강조",
+          "url": "https://www.asiatime.co.kr/article/20260810500103",
+          "outlet": "asiatime.co.kr",
+          "pub": "2026-08-10T02:20:00.000Z"
+        }
+      }
+    ]
+  }
+}
