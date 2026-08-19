@@ -1,0 +1,203 @@
+{
+  "date": "2026-08-19",
+  "total": 12,
+  "order": [
+    "교육행정위원회",
+    "교육기획위원회",
+    "기획재정위원회",
+    "보건복지위원회",
+    "경제노동위원회",
+    "미래과학협력위원회",
+    "농정해양위원회",
+    "도시환경위원회",
+    "안전행정위원회"
+  ],
+  "groups": {
+    "교육행정위원회": [
+      {
+        "committee": "교육행정위원회",
+        "name": "최명진",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "최명진 의원, 꿈의학교, 이주배경 학생과 함께하는 평화교육 관련 정담회",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296486/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "최명진 경기도의원, 꿈의학교 이주배경 학생과 함께하는 평화교육 관련...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/08/19/20260819500212?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-08-19T08:04:00.000Z"
+        }
+      }
+    ],
+    "교육기획위원회": [
+      {
+        "committee": "교육기획위원회",
+        "name": "국중범",
+        "role": "위원장",
+        "party": "더불어민주당",
+        "ggcTitle": "국중범 교육기획위원장, “교육협력사업은 협의와 소통이 핵심..기관 간 협력체계를 더욱 강화해야”",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296485/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "경기도의회 국중범 위원장, 교육협력사업 추진 현황 점검",
+          "url": "http://www.metroseoul.co.kr/article/20260819500444",
+          "outlet": "메트로신문",
+          "pub": "2026-08-19T07:58:00.000Z"
+        }
+      },
+      {
+        "committee": "교육기획위원회",
+        "name": "유병수",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "유병수 의원, 경기교육 연구-현장 활용도 제고 주문",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296474/?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "유병수 경기도의원, 디지털·미디어 시대 정보 검증 체계 마련 주문",
+          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5052868",
+          "outlet": "shinailbo.co.kr",
+          "pub": "2026-08-19T08:08:00.000Z"
+        }
+      }
+    ],
+    "기획재정위원회": [
+      {
+        "committee": "기획재정위원회",
+        "name": "이재영",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "이재영 의원, '공공기관 노동이사제' 실효성 강화를 위한 조례 개정 의견 청취",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296484/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "이재영 경기도의원, ‘공공기관 노동이사제’ 실효성 강화 위한 조례 개...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/08/19/20260819500195?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-08-19T07:19:00.000Z"
+        }
+      },
+      {
+        "committee": "기획재정위원회",
+        "name": "윤종영",
+        "role": "의원",
+        "party": "국민의힘",
+        "ggcTitle": "윤종영 의원, 계룡시 찾아 ‘경기·계룡 평화·안보 협력’ 물꼬",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296472/?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "윤종영 경기도의원, 계룡시와 군문화·평화안보 협력 논의",
+          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5052869",
+          "outlet": "shinailbo.co.kr",
+          "pub": "2026-08-19T08:08:00.000Z"
+        }
+      }
+    ],
+    "보건복지위원회": [
+      {
+        "committee": "보건복지위원회",
+        "name": "최경순",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "최경순 의원, “안양시 아동은 11.8%뿐인데 운영비 80% 부담...재정분담 구조 개선해야”",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296482/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "최경순 경기도의원 “안양시 아동 비율 11.8%, 운영비는 80% 부담... 부당...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/08/19/20260819500174?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-08-19T06:30:00.000Z"
+        }
+      }
+    ],
+    "경제노동위원회": [
+      {
+        "committee": "경제노동위원회",
+        "name": "한영수",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "한영수 의원, 경기도 지방노동감독관 제도 안착 위한 운영·지원 조례안 입법예고",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296478/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "한영수 경기도의원, 경기도 지방노동감독관 제도 안착 위한 운영·지원...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/08/19/20260819500159?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-08-19T05:57:00.000Z"
+        }
+      },
+      {
+        "committee": "경제노동위원회",
+        "name": "오현정",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "오현정 의원, 기술 과열 시대, 예술을 통한 성찰과 문화 향유 기회 확대할 것",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296468/?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "오현정 경기도의원 “기술 과열 시대, 예술을 통한 성찰과 문화 향유 기...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/08/19/20260819500042?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-08-19T00:54:00.000Z"
+        }
+      }
+    ],
+    "미래과학협력위원회": [
+      {
+        "committee": "미래과학협력위원회",
+        "name": "이영봉",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "이영봉 의원, 망월사역 북부역사 임시사용 및 영구 존치 방안 논의",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296477/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "이영봉 경기도의원, 망월사역 북부역사 존치 논의…\"국비 확보 필요\"",
+          "url": "https://www.kmaeil.com/news/articleView.html?idxno=648989",
+          "outlet": "kmaeil.com",
+          "pub": "2026-08-19T08:16:00.000Z"
+        }
+      }
+    ],
+    "농정해양위원회": [
+      {
+        "committee": "농정해양위원회",
+        "name": "최만식",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "최만식 의원, 농식품 부산물 순환이용 조례 ‘현장 실행력’ 높인다",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296475/?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "최만식 경기도의원, 농식품 부산물 순환이용 정책 방향 논의",
+          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5052866",
+          "outlet": "shinailbo.co.kr",
+          "pub": "2026-08-19T08:08:00.000Z"
+        }
+      }
+    ],
+    "도시환경위원회": [
+      {
+        "committee": "도시환경위원회",
+        "name": "장송회",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "장송회 의원, 도시재생사업 점검…“원도심 주민이 체감하는 주거환경 개선 필요”",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296473/?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "장송회 경기도의원, 도시재생사업 점검…원도심 주거환경 개선 강조",
+          "url": "http://www.srtimes.kr/news/articleView.html?idxno=210337",
+          "outlet": "srtimes.kr",
+          "pub": "2026-08-19T01:46:00.000Z"
+        }
+      }
+    ],
+    "안전행정위원회": [
+      {
+        "committee": "안전행정위원회",
+        "name": "이성한",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "이성한 의원, ‘고양 금정굴 6·25 민간인 희생자 추모 평화사업’ 간담회 개최",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296469/?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "이성한 도의원, '고양 금정굴 민간인 희생' 간담회 개최",
+          "url": "https://www.public25.com/news/articleView.html?idxno=52938",
+          "outlet": "public25.com",
+          "pub": "2026-08-19T02:18:00.000Z"
+        }
+      }
+    ]
+  }
+}
