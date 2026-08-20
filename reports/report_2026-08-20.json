@@ -1,0 +1,197 @@
+{
+  "date": "2026-08-20",
+  "total": 12,
+  "order": [
+    "교육행정위원회",
+    "농정해양위원회",
+    "도시환경위원회",
+    "의회운영위원회",
+    "기획재정위원회",
+    "보건복지위원회",
+    "교육기획위원회"
+  ],
+  "groups": {
+    "교육행정위원회": [
+      {
+        "committee": "교육행정위원회",
+        "name": "정현미",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "정현미 의원, 마을교육공동체 및 지역교육 협력사업 전반 점검",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296513/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "정현미 경기도의원, 덕소초 학부모회와 교육현안 간담회",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/08/19/20260819500037?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-08-19T00:31:00.000Z"
+        }
+      },
+      {
+        "committee": "교육행정위원회",
+        "name": "김영훈",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "김영훈 의원, 동탄 과밀학급 해소 위한 교원 정원 총량 확보에 주력",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296492/?cp=3&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "김영훈 경기도의원, 동탄 과밀학급 해소 위한 교원 정원 총량 확보 주력",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/08/20/20260820500148?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-08-20T06:17:00.000Z"
+        }
+      }
+    ],
+    "농정해양위원회": [
+      {
+        "committee": "농정해양위원회",
+        "name": "유경현",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "유경현 의원, 의정활동 현장을 뒷받침할 수 있는 ‘지방의회법’ 만들어야",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296512/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "유경현 도의원, 부천 까치울초 상상형 학교놀이터 공모 선정 이끌어…사...",
+          "url": "https://www.kgnews.co.kr/news/article.html?no=907771",
+          "outlet": "경기신문",
+          "pub": "2026-08-17T08:28:00.000Z"
+        }
+      }
+    ],
+    "도시환경위원회": [
+      {
+        "committee": "도시환경위원회",
+        "name": "지영일",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "지영일 의원, 지방의회법 제정 TF 위원 위촉…“언제나 주민 곁에 유능한 지방의회로”",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296511/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "[경기도의회 소식]최혜경‧신미숙 경기도의원‧경기도의회",
+          "url": "http://www.iminju.net/news/articleView.html?idxno=168332",
+          "outlet": "iminju.net",
+          "pub": "2026-08-20T08:08:00.000Z"
+        }
+      },
+      {
+        "committee": "도시환경위원회",
+        "name": "장정희",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "장정희 의원, “재정 어려워도 상수도는 필수… 파장정수장 고도화 차질 없어야”",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296491/?cp=3&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "장정희 경기도의원 “재정 어려워도 상수도는 필수… 파장정수장 고도...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/08/20/20260820500141?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-08-20T06:06:00.000Z"
+        }
+      }
+    ],
+    "의회운영위원회": [
+      {
+        "committee": "의회운영위원회",
+        "name": "문승호",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "문승호 의원, 성남신흥초 암반 비탈면 위험 점검… 학생 안전 최우선",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296506/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "문승호 경기도의원, 성남신흥초 암반 비탈면 안전확보 방안 논의",
+          "url": "https://www.m-i.kr/news/articleView.html?idxno=1403954",
+          "outlet": "m-i.kr",
+          "pub": "2026-08-20T00:00:00.000Z"
+        }
+      },
+      {
+        "committee": "의회운영위원회",
+        "name": "경기도",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "김성기 의원, 30년 장기재직 사회복지사 격려행사 참석…처우 '개선' 아닌 '향상'이 맞는 말",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296503/?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "[경기의정을 말하다] 김용성 경기도의회 여성가족평생교육위원장 “가...",
+          "url": "https://www.kgnews.co.kr/news/article.html?no=908333",
+          "outlet": "경기신문",
+          "pub": "2026-08-20T08:16:00.000Z"
+        }
+      },
+      {
+        "committee": "의회운영위원회",
+        "name": "백승기",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "백승기·이주현 의원, 안성 친환경농업 현장 목소리 청취",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296500/?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "백승기·이주현 경기도의원, 안성 친환경농업 활성화 방안 논의",
+          "url": "http://www.metroseoul.co.kr/article/20260820500082",
+          "outlet": "메트로신문",
+          "pub": "2026-08-20T03:24:00.000Z"
+        }
+      }
+    ],
+    "기획재정위원회": [
+      {
+        "committee": "기획재정위원회",
+        "name": "유필선",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "유필선 의원, 마을공동체 관계자들과 활성화 방안 정담회 개최",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296502/?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "유필선 경기도의원, 마을공동체 지원 축소에 따른 현장 어려움 논의",
+          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5053276",
+          "outlet": "shinailbo.co.kr",
+          "pub": "2026-08-20T07:42:00.000Z"
+        }
+      }
+    ],
+    "보건복지위원회": [
+      {
+        "committee": "보건복지위원회",
+        "name": "김현덕",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "김현덕 의원, 장애인복지 제도 전환 앞두고 현장 대응과제 점검",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296498/?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "김현덕 경기도의원, 장애인복지 현안·정책 방향 논의",
+          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5053269",
+          "outlet": "shinailbo.co.kr",
+          "pub": "2026-08-20T07:08:00.000Z"
+        }
+      }
+    ],
+    "교육기획위원회": [
+      {
+        "committee": "교육기획위원회",
+        "name": "조병진",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "조병진 의원, “경기교육 플랫폼 G-ONE, 교사업무 경감 및 유보통합 대비 선제적 확장 갖춰야”",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296497/?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "경기도의회 조병진 의원 \"G-ONE, 유보통합 대비 확장성-보안 체계 갖춰야...",
+          "url": "https://www.cnbnews.com/news/articleView.html?idxno=1012058",
+          "outlet": "cnbnews.com",
+          "pub": "2026-08-20T06:18:00.000Z"
+        }
+      },
+      {
+        "committee": "교육기획위원회",
+        "name": "김경옥",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "김경옥 의원, “외국인 유아 보육·교육 지원 차별 없어야… 동등한 권리 보장 촉구”",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296496/?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "김경옥 경기도의원 “외국인 유아 보육·교육 지원 차별 없어야… 동등...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/08/20/20260820500181?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-08-20T07:28:00.000Z"
+        }
+      }
+    ]
+  }
+}
