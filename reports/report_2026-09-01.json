@@ -1,6 +1,269 @@
 {
   "date": "2026-09-01",
-  "total": 0,
-  "order": [],
-  "groups": {}
+  "total": 25,
+  "order": [
+    "교육기획위원회",
+    "도시환경위원회",
+    "기획재정위원회",
+    "건설교통위원회",
+    "여성가족평생교육위원회",
+    "의회운영위원회",
+    "농정해양위원회",
+    "안전행정위원회",
+    "미래과학협력위원회",
+    "보건복지위원회",
+    "경제노동위원회",
+    "교육행정위원회"
+  ],
+  "groups": {
+    "교육기획위원회": [
+      {
+        "committee": "교육기획위원회",
+        "name": "획위원회",
+        "role": "위원장",
+        "party": "더불어민주당",
+        "ggcTitle": "국중범 교육기획위원장, ”초·중등 교육재정 축소를 중단하고 법정교부율 20.79%를 사수하라!”",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296816/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": null
+      },
+      {
+        "committee": "교육기획위원회",
+        "name": "박은경",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "박은경 의원, “지속가능발전, 조례·정책·예산에 실질적으로 담아야”",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296797/?cp=3&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": null
+      },
+      {
+        "committee": "교육기획위원회",
+        "name": "윤도희",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "윤도희 의원, 민주시민교육원 입법정책토론회 개최",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296790/?cp=3&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": null
+      },
+      {
+        "committee": "교육기획위원회",
+        "name": "정연일",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "정연일 의원, 외국인 아동 보육료 지원 방안 논의",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296788/?cp=3&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": null
+      },
+      {
+        "committee": "교육기획위원회",
+        "name": "박은경",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "박은경 의원, 어린이집 현장과 유보통합 과제 논의...“어느 한쪽에 맞추는 통합 되어선 안 돼”",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296787/?cp=4&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": null
+      },
+      {
+        "committee": "교육기획위원회",
+        "name": "박은경",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "박은경 의원, 경기도교육연구원 운영 점검...“연구 역량 축적하려면 인력 운영 안정성 중요”",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296786/?cp=4&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": null
+      }
+    ],
+    "도시환경위원회": [
+      {
+        "committee": "도시환경위원회",
+        "name": "유종상",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "유종상 의원, “불가피한 감액추경이라도 시·군과의 신뢰 고려해야”",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296815/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": null
+      },
+      {
+        "committee": "도시환경위원회",
+        "name": "안계명",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "안계명 의원, 평택항 중심 '서평택 통합발전 전략' 마련해야",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296808/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": null
+      }
+    ],
+    "기획재정위원회": [
+      {
+        "committee": "기획재정위원회",
+        "name": "김운남",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "김운남 의원, '인천2호선 고양 연장 예타 통과, 이제 경기도가 움직여야'",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296814/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": null
+      }
+    ],
+    "건설교통위원회": [
+      {
+        "committee": "건설교통위원회",
+        "name": "김지호",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "김지호 의원, “교통약자 이동 지원, 제도 확대만큼 현장 운영예산 뒷받침돼야”",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296812/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": null
+      },
+      {
+        "committee": "건설교통위원회",
+        "name": "한승훈",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "한승훈 의원, 물류항만과 업무보고서 “경기평택항만공사 쇄신 당부”",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296785/?cp=4&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": null
+      }
+    ],
+    "여성가족평생교육위원회": [
+      {
+        "committee": "여성가족평생교육위원회",
+        "name": "최순자",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "최순자 의원, 재정 어려워도 아이·문화 예산은 지켜야",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296811/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": null
+      },
+      {
+        "committee": "여성가족평생교육위원회",
+        "name": "김용성",
+        "role": "위원장",
+        "party": "더불어민주당",
+        "ggcTitle": "김용성 여가교위 위원장, ‘이주여성상담센터 1주년 성과보고회’ 참석",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296804/?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": null
+      }
+    ],
+    "의회운영위원회": [
+      {
+        "committee": "의회운영위원회",
+        "name": "김선희",
+        "role": "의원",
+        "party": "국민의힘",
+        "ggcTitle": "김선희 의원, 글로벌 AI 반도체 골든타임... “경기도, ‘규제자’ 아닌 ‘가속기·조율사’ 역할 나서야”",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296810/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": null
+      }
+    ],
+    "농정해양위원회": [
+      {
+        "committee": "농정해양위원회",
+        "name": "백승기",
+        "role": "위원장",
+        "party": "더불어민주당",
+        "ggcTitle": "백승기 의원, “용인 반도체 클러스터, 안성 희생 강요 안 돼” 농업용수·방류수·송전선로 등 피해 대책 마련 촉구",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296809/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": null
+      }
+    ],
+    "안전행정위원회": [
+      {
+        "committee": "안전행정위원회",
+        "name": "김귀근",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "김귀근 의원, 군포복합물류터미널 기능 전환 및 시민 중심 미래공간 조성 촉구",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296807/?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": null
+      },
+      {
+        "committee": "안전행정위원회",
+        "name": "최종현",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "최종현 의원, 인권영향평가 실효성 높인다... 조례 개정안 대표발의",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296789/?cp=3&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": null
+      }
+    ],
+    "미래과학협력위원회": [
+      {
+        "committee": "미래과학협력위원회",
+        "name": "오민용",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "오민용 의원, 수출 중소기업 지원, 기관 역할 명확히 하고 성장단계별 지원 연계해야",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296806/?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": null
+      }
+    ],
+    "보건복지위원회": [
+      {
+        "committee": "보건복지위원회",
+        "name": "차유미",
+        "role": "의원",
+        "party": "조국혁신당",
+        "ggcTitle": "차유미 의원, 안산 장애인평생교육시설 ‘나무를심는장애인야학’ 방문",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296800/?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": null
+      },
+      {
+        "committee": "보건복지위원회",
+        "name": "문승호",
+        "role": "부위원장",
+        "party": "더불어민주당",
+        "ggcTitle": "문승호 의원, 경기도장애인복지시설연합회와 복지 현안 논의",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296799/?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": null
+      },
+      {
+        "committee": "보건복지위원회",
+        "name": "국은주",
+        "role": "부위원장",
+        "party": "국민의힘",
+        "ggcTitle": "국은주 의원, 공공기관담당관실과 간담회, 공공기관 운영·평가 현안 논의",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296798/?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": null
+      },
+      {
+        "committee": "보건복지위원회",
+        "name": "권태익",
+        "role": "의원",
+        "party": "국민의힘",
+        "ggcTitle": "권태익 의원, 경기도의료원장과 간담회, 도민이 신뢰하는 공공의료 위해 함께 고민할 것",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296795/?cp=3&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": null
+      },
+      {
+        "committee": "보건복지위원회",
+        "name": "김현덕",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "김현덕 의원, 사회서비스원 돌봄 영역 간 칸막이 낮추고 종사자 처우 개선해야",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296793/?cp=3&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": null
+      }
+    ],
+    "경제노동위원회": [
+      {
+        "committee": "경제노동위원회",
+        "name": "유수연",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "유수연 의원, 경기도의료원 의정부병원 노조와 공공의료 정상화 대책 논의",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296796/?cp=3&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": null
+      }
+    ],
+    "교육행정위원회": [
+      {
+        "committee": "교육행정위원회",
+        "name": "정석원",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "정석원 의원, 양주 지역교육 협력의 구심점 맡아... 지역교육협력 협의회 위원장 선출",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/296794/?cp=3&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": null
+      }
+    ]
+  }
 }
