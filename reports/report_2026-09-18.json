@@ -1,0 +1,517 @@
+{
+  "date": "2026-09-18",
+  "total": 34,
+  "order": [
+    "안전행정위원회",
+    "여성가족평생교육위원회",
+    "농정해양위원회",
+    "의회운영위원회",
+    "교육기획위원회",
+    "경제노동위원회",
+    "보건복지위원회",
+    "도시환경위원회",
+    "문화체육관광위원회",
+    "기획재정위원회",
+    "교육행정위원회"
+  ],
+  "groups": {
+    "안전행정위원회": [
+      {
+        "committee": "안전행정위원회",
+        "name": "양경석",
+        "role": "위원장",
+        "party": "더불어민주당",
+        "ggcTitle": "양경석 안전행정위원장, 퇴직 소방공무원 특수건강진단 지원 조례 제정을 위한 입법정책토론회 개최",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/297766/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "양경석 경기도의회 안전행정위원장, 추석 앞두고 송탄시장 안전관리 점...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/09/18/20260918500287?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-09-18T08:37:00.000Z"
+        }
+      }
+    ],
+    "여성가족평생교육위원회": [
+      {
+        "committee": "여성가족평생교육위원회",
+        "name": "신미숙",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "신미숙 의원, ‘뉴스테이 임차인 보호법 개정 촉구 건의안’ 본회의 통과",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/297765/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "경기도의회, 제12대 전반기 조례시행추진관리단 구성",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/09/18/20260918500289?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-09-18T08:42:00.000Z"
+        }
+      },
+      {
+        "committee": "여성가족평생교육위원회",
+        "name": "이채명",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "이채명 의원 대표발의 디지털포용 조례안 본회의 통과",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/297764/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "이채명 경기도의원, 경기도 지역아동센터 현장 정책 정담회 개최",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/09/17/20260917500044?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-09-17T00:58:00.000Z"
+        }
+      },
+      {
+        "committee": "여성가족평생교육위원회",
+        "name": "최순자",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "최순자 의원, 행정 칸막이 낮추고 경기북부·돌봄 문제 실천으로 풀어야",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/297763/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "최순자 경기도의원, 포천 시립박물관 건립 관광자원 개발 지원방안 논의",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/09/12/20260912500079?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-09-12T08:10:00.000Z"
+        }
+      }
+    ],
+    "농정해양위원회": [
+      {
+        "committee": "농정해양위원회",
+        "name": "경기도",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "박옥분 의원, 한가위 맞아 경기 농산물 소비 촉진 앞장",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/297757/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "김창식 경기도의회 기획재정위원장, 불암천 산책로 연결사업 현장 확인",
+          "url": "https://www.m-i.kr/news/articleView.html?idxno=1416219",
+          "outlet": "m-i.kr",
+          "pub": "2026-09-18T12:22:00.000Z"
+        }
+      },
+      {
+        "committee": "농정해양위원회",
+        "name": "서광범",
+        "role": "위원장",
+        "party": "국민의힘",
+        "ggcTitle": "서광범 농정해양위원장, 한가위 맞아 경기 우수 농산물 소비 촉진 홍보활동 동참",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/297754/?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "서광범 경기도의회 농정해양위원장 \"재정 어려워도 농업예산 현실화 필...",
+          "url": "https://www.kmaeil.com/news/articleView.html?idxno=651975",
+          "outlet": "kmaeil.com",
+          "pub": "2026-09-16T07:42:00.000Z"
+        }
+      },
+      {
+        "committee": "농정해양위원회",
+        "name": "김미숙",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "김미숙 부의장, “후견 필요한 도민 적기에 발굴·지원”... 공공후견 통합지원체계 제도화",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/297750/?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "[지방의회 24時] 김미숙 道의회 부의장 \"AI 효율성은 높이고 신뢰는 더하...",
+          "url": "https://www.joongangenews.com/news/articleView.html?idxno=549296",
+          "outlet": "joongangenews.com",
+          "pub": "2026-09-18T07:30:00.000Z"
+        }
+      },
+      {
+        "committee": "농정해양위원회",
+        "name": "이은미",
+        "role": "부위원장",
+        "party": "더불어민주당",
+        "ggcTitle": "이은미 의원, “국제개발협력 내실화 기반 마련”... 상위법 맞춘 제도 정비",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/297747/?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "이은미 경기도의원 “산불 대응은 예방주사처럼 미리 준비해야”",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/09/09/20260909500125?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-09-09T02:15:00.000Z"
+        }
+      },
+      {
+        "committee": "농정해양위원회",
+        "name": "최만식",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "최만식 의원, “추석 장바구니 부담 덜자” 경기도 우수 농산물 할인판매 직접 나서",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/297712/?cp=6&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "최만식 경기도의원 “추석 장바구니 부담 덜자”… 경기도 우수 농산물...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/09/18/20260918500267?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-09-18T07:56:00.000Z"
+        }
+      }
+    ],
+    "의회운영위원회": [
+      {
+        "committee": "의회운영위원회",
+        "name": "방성환",
+        "role": "의원",
+        "party": "국민의힘",
+        "ggcTitle": "경기도의회, 제12대 전반기 예산정책자문위원회 첫발",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/297753/?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "경기도 '감액 추경' 처리 무산…'여의도지사' 비판",
+          "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1538007",
+          "outlet": "obsnews.co.kr",
+          "pub": "2026-09-18T11:22:00.000Z"
+        }
+      },
+      {
+        "committee": "의회운영위원회",
+        "name": "유경현",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "유경현 의원, 경기콘텐츠진흥원 임금체불 위기 지적...“인건비 반드시 확보해야”",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/297744/?cp=3&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "유경현 경기도의원, 소규모 사업장 건강주치의 사업 개선 촉구",
+          "url": "http://www.srtimes.kr/news/articleView.html?idxno=212623",
+          "outlet": "srtimes.kr",
+          "pub": "2026-09-16T06:46:00.000Z"
+        }
+      },
+      {
+        "committee": "의회운영위원회",
+        "name": "이주현",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "이주현 의원, 임시회 본회의 5분 자유발언, 추미애 지사에게 안성휴게소의원 폐쇄 철회 서명부 전달 및 정상화 촉구",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/297740/?cp=3&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "이주현 도의원 \"안성휴게소의원 폐쇄 철회…운영 개선해야\"",
+          "url": "https://news.skbroadband.com/news/articleView.html?idxno=238373",
+          "outlet": "news.skbroadband.com",
+          "pub": "2026-09-18T08:44:00.000Z"
+        }
+      },
+      {
+        "committee": "의회운영위원회",
+        "name": "이대한",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "이대한 의원, “3기 신도시, 기존도시와 함께 성장해야” 왕숙-오남·진접 연계생활권 조성 촉구",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/297739/?cp=3&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "이대한 경기도의원 “출산·돌봄 지원 공백부터 살피고 근거 분명하게 ...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/09/18/20260918500285?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-09-18T08:35:00.000Z"
+        }
+      },
+      {
+        "committee": "의회운영위원회",
+        "name": "김인영",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "김인영 의원, 이천시 농정예산 확보 논의",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/297714/?cp=6&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "김인영 경기도의원, 이천시 농정예산 확보 논의",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/09/18/20260918500270?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-09-18T08:06:00.000Z"
+        }
+      }
+    ],
+    "교육기획위원회": [
+      {
+        "committee": "교육기획위원회",
+        "name": "박은경",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "박은경 의원, 학교 동아리 활동 체계적 지원 위한 제도적 기반 마련",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/297751/?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "박은경 경기도의원 “교육청-대학 협력, MOU 넘어 실질적 상생모델 만들...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/09/15/20260915500129?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-09-15T04:47:00.000Z"
+        }
+      },
+      {
+        "committee": "교육기획위원회",
+        "name": "최지원",
+        "role": "의원",
+        "party": "국민의힘",
+        "ggcTitle": "최지원 의원, 경기미래교육 파주캠퍼스, 평화경제특구 연계한 ‘평화국제예술고’로 대전환해야",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/297745/?cp=3&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "최지원 경기도의원, 경기도교육청 출자·출연기관 ‘재정 투명성 제고 ...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/09/04/20260904500312?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-09-04T08:16:00.000Z"
+        }
+      },
+      {
+        "committee": "교육기획위원회",
+        "name": "조병진",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "조병진 의원 대표발의, 도교육청 출자·출연 기관 운영 조례 전부개정안 본회의 통과",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/297741/?cp=3&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "조병진 경기도의원, 학교도서관 사서공무직 배치 점검… “학생 맞춤형...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/09/17/20260917500053?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-09-17T01:12:00.000Z"
+        }
+      }
+    ],
+    "경제노동위원회": [
+      {
+        "committee": "경제노동위원회",
+        "name": "최민",
+        "role": "부위원장",
+        "party": "더불어민주당",
+        "ggcTitle": "최민 의원, 일자리재단 조례 전부개정안 본회의 통과",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/297748/?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "최민 경기도의원, 사회혁신경제국 민생사업 감액 강하게 질타",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/09/14/20260914500292?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-09-14T08:54:00.000Z"
+        }
+      },
+      {
+        "committee": "경제노동위원회",
+        "name": "최혜경",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "최혜경 의원, “경기도일자리재단 데이터 기반 일자리 서비스, 도민 활용도 높여야”",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/297742/?cp=3&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "경기도의회, 제12대 전반기 디지털의정위원회 출범",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/09/12/20260912500066?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-09-12T06:32:00.000Z"
+        }
+      },
+      {
+        "committee": "경제노동위원회",
+        "name": "최상규",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "최상규 의원, 20년 멈춰 선 수원 영화동, 경기도 관광의 미래로",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/297738/?cp=3&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "최상규 경기도의원 \"영화 도시재생 혁신지구 신속 추진해야\"",
+          "url": "https://www.news1.kr/local/gyeonggi/6295513",
+          "outlet": "뉴스1",
+          "pub": "2026-09-18T06:52:00.000Z"
+        }
+      },
+      {
+        "committee": "경제노동위원회",
+        "name": "최보라",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "최보라 의원, “2027 세계청년대회 100만 순례객 안전 확보해야... 지방도 325호선 보행로 우선 완공 시급”",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/297736/?cp=4&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "[패트롤] 경기도-경기도의회-경기도교육청-차세대융합기술연구원-경기...",
+          "url": "https://www.ekn.kr/web/view.php?key=20260918023326667",
+          "outlet": "ekn.kr",
+          "pub": "2026-09-18T07:36:00.000Z"
+        }
+      },
+      {
+        "committee": "경제노동위원회",
+        "name": "송규근",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "송규근 의원, 경기도교육청 ‘명예교권보호전담관’ 위촉",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/297709/?cp=6&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "송규근 경기도의원, 경기도교육청 ‘명예교권보호전담관’ 위촉",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/09/18/20260918500204?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-09-18T05:41:00.000Z"
+        }
+      }
+    ],
+    "보건복지위원회": [
+      {
+        "committee": "보건복지위원회",
+        "name": "국은주",
+        "role": "부위원장",
+        "party": "국민의힘",
+        "ggcTitle": "국은주 의원, 제12대 전반기 ‘조례시행추진관리단’ 위원 위촉",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/297743/?cp=3&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "[위클리오늘] 경기도의회 국은주 의원, 제12대 전반기 '조례시행추진관...",
+          "url": "http://www.weeklytoday.com/news/articleView.html?idxno=795168",
+          "outlet": "weeklytoday.com",
+          "pub": "2026-09-18T05:42:00.000Z"
+        }
+      },
+      {
+        "committee": "보건복지위원회",
+        "name": "이건희",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "이건희 의원, 5분 자유발언 “남양주 공공의료원·지방도 387호선, 도민과의 약속 차질 없이 추진해야”",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/297734/?cp=4&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "이건희 경기도의원 “의료급여 장기요양 재정부담, 경기도 31개 시군 실...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/09/16/20260916500083?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-09-16T02:00:00.000Z"
+        }
+      },
+      {
+        "committee": "보건복지위원회",
+        "name": "김현덕",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "김현덕 의원, 수원시장애인종합복지관 개관 20주년 축하... 스무 살의 새로운 발걸음 응원",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/297724/?cp=5&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "김현덕 경기도의원, 수원 망포초 교육환경 점검… “아이들이 안전하게...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/09/17/20260917500093?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-09-17T02:09:00.000Z"
+        }
+      },
+      {
+        "committee": "보건복지위원회",
+        "name": "최경순",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "최경순 의원, “출연기관 인건비 부족 알아서 하라는 경기도, 말 안 돼”",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/297717/?cp=5&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "최경순 경기도의원 “출연기관 인건비 부족 알아서 하라는 경기도, 말 ...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/09/18/20260918500279?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-09-18T08:21:00.000Z"
+        }
+      }
+    ],
+    "도시환경위원회": [
+      {
+        "committee": "도시환경위원회",
+        "name": "장송회",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "장송회 의원 대표발의 ‘이륜자동차 소음 관리 조례 개정안’ 본회의 통과",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/297737/?cp=3&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "장송회 경기도의원 대표발의 ‘이륜자동차 소음 관리 조례 개정안’ 본...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/09/18/20260918500297?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-09-18T08:58:00.000Z"
+        }
+      },
+      {
+        "committee": "도시환경위원회",
+        "name": "이혜원",
+        "role": "부위원장",
+        "party": "국민의힘",
+        "ggcTitle": "이혜원 의원, “중앙정치 아닌 도민 위한 책임행정 보여야” 5분자유발언서 도정·교육행정 ‘이중잣대’ 지적",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/297735/?cp=4&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "이혜원 경기도의원, 본회의장서 추미애 지사 직격…\"여의도 정치판의 오...",
+          "url": "https://news.tf.co.kr/read/national/2367739.htm",
+          "outlet": "news.tf.co.kr",
+          "pub": "2026-09-18T09:22:00.000Z"
+        }
+      },
+      {
+        "committee": "도시환경위원회",
+        "name": "안계명",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "안계명 의원, 조례시행추진관리단 위원 위촉... 도정 전반 입법 실효성 점검 나서",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/297711/?cp=6&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "안계명 경기도의원, 조례시행추진관리단 위원 위촉… 도정 전반 입법 실...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/09/18/20260918500263?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-09-18T07:49:00.000Z"
+        }
+      }
+    ],
+    "문화체육관광위원회": [
+      {
+        "committee": "문화체육관광위원회",
+        "name": "이병숙",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "이병숙 의원, 영통 노후계획도시 ‘찾아가는 정책설명회’ 참석 … “주민 의견 반영한 정비계획 마련해야”",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/297728/?cp=4&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "[OBS 뉴스 오늘2] 이병숙 \"경기도민 권익 위해 작은 것부터 실천\"",
+          "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1537638",
+          "outlet": "obsnews.co.kr",
+          "pub": "2026-09-16T07:36:00.000Z"
+        }
+      },
+      {
+        "committee": "문화체육관광위원회",
+        "name": "채신덕",
+        "role": "위원장",
+        "party": "더불어민주당",
+        "ggcTitle": "문화체육관광위원회, '2026 경기도자비엔날레' 개막식 참석... 세계 도자문화의 중심 경기도 도약 지원 약속",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/297710/?cp=6&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "채신덕·김철환·최명진·신명순 의원, 김포시학교운영위원협의회와 정...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/09/17/20260917500041?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-09-17T00:53:00.000Z"
+        }
+      }
+    ],
+    "기획재정위원회": [
+      {
+        "committee": "기획재정위원회",
+        "name": "이철형",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "이철형 의원, “행정 신뢰는 지키고, 국비 확보 역량은 높여야”",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/297723/?cp=5&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "이철형 경기도의원, 시군 상사업비 감액·중앙협력본부 인력 공백 점검",
+          "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=710186",
+          "outlet": "newsfreezone.co.kr",
+          "pub": "2026-09-18T05:46:00.000Z"
+        }
+      }
+    ],
+    "교육행정위원회": [
+      {
+        "committee": "교육행정위원회",
+        "name": "정현미",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "정현미 의원, 안민석 교육감에 덕소초 복합문화센터·공간재구조화 사업 적극 협조 요청",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/297721/?cp=5&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "정현미 도의원 \"교육기부 활성화로 지역사회 자원 활용 기대\"",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3687976",
+          "outlet": "gukjenews.com",
+          "pub": "2026-09-08T00:36:00.000Z"
+        }
+      },
+      {
+        "committee": "교육행정위원회",
+        "name": "최미금",
+        "role": "의원",
+        "party": "국민의힘",
+        "ggcTitle": "최미금 의원, 화성 동탄3동·반월동 교육현안 안민석 교육감에게 직접 전달",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/297716/?cp=6&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "최미금 경기도의원, 화성 동탄3동·반월동 교육현안 안민석 교육감에게...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/09/18/20260918500277?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-09-18T08:16:00.000Z"
+        }
+      }
+    ]
+  }
+}
