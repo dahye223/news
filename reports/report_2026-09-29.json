@@ -1,0 +1,152 @@
+{
+  "date": "2026-09-29",
+  "total": 9,
+  "order": [
+    "미래과학협력위원회",
+    "안전행정위원회",
+    "경제노동위원회",
+    "의회운영위원회",
+    "보건복지위원회",
+    "교육기획위원회"
+  ],
+  "groups": {
+    "미래과학협력위원회": [
+      {
+        "committee": "미래과학협력위원회",
+        "name": "박상현",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "박상현 의원, 도민지원사업 신청 더 쉽고 간편하게..플랫폼 연계방안 모색",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/297950/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "박상현 경기도의원 “도민지원사업 신청 더 쉽고 간편하게”… 플랫폼...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/09/29/20260929500230?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-09-29T08:00:00.000Z"
+        }
+      }
+    ],
+    "안전행정위원회": [
+      {
+        "committee": "안전행정위원회",
+        "name": "김귀근",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "김귀근 의원, 군포 의용소방대 기술경연대회 참석...반복된 훈련이 현장 대응력 높인다",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/297949/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "김귀근 경기도의원, 군포 의용소방대 기술경연대회 참석… 반복된 훈련...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/09/29/20260929500220?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-09-29T07:36:00.000Z"
+        }
+      }
+    ],
+    "경제노동위원회": [
+      {
+        "committee": "경제노동위원회",
+        "name": "최혜경",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "최혜경 의원, “경영환경개선 사업, 스마트 상점 지원 사업과 중복 줄이고 효율성 높여야”",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/297946/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "최혜경 경기도의원 “경영환경개선 사업, 스마트 상점 지원 사업과 중복...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/09/29/20260929500200?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-09-29T06:49:00.000Z"
+        }
+      }
+    ],
+    "의회운영위원회": [
+      {
+        "committee": "의회운영위원회",
+        "name": "경기도",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "김성기 의원, 경기도장애인 IT Festival 참석...디지털 기회가 곧 참여의 기회",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/297945/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "남종섭 경기도의장, '지방의회법 제정 토론회' 개최",
+          "url": "http://www.globalepic.co.kr/view.php?ud=2026092917161079395f69d33b22_29",
+          "outlet": "globalepic.co.kr",
+          "pub": "2026-09-29T14:12:00.000Z"
+        }
+      },
+      {
+        "committee": "의회운영위원회",
+        "name": "송연섭",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "송연섭 의원, 판교 스타트업 현장 간담회... 현장 목소리 정책으로 잇는다",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/297941/?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "송연섭 경기도의원, 판교 스타트업 간담회…\"맞춤형 지원·절차 간소화...",
+          "url": "https://www.siminsori.com/news/articleView.html?idxno=401776",
+          "outlet": "siminsori.com",
+          "pub": "2026-09-29T09:10:00.000Z"
+        }
+      },
+      {
+        "committee": "의회운영위원회",
+        "name": "최순자",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "최순자 의원, 폐교 활용에 주민 의견 담아야",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/297940/?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "최순자 경기도의원, 특수교육원과 정담회…학생 증가 현황 논의",
+          "url": "http://www.bizwnews.com/news/articleView.html?idxno=147575",
+          "outlet": "bizwnews.com",
+          "pub": "2026-09-29T07:26:00.000Z"
+        }
+      }
+    ],
+    "보건복지위원회": [
+      {
+        "committee": "보건복지위원회",
+        "name": "김현덕",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "김현덕 의원, 경기남부장애인권익옹호기관 자문위원회 참석",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/297942/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "경기도의회 김현덕 의원, 장애인 권익보호 자문위원 위촉… 2027년 사업...",
+          "url": "http://www.lawissue.co.kr/view.php?ud=202609291135378458d94aa4ada6_12",
+          "outlet": "lawissue.co.kr",
+          "pub": "2026-09-29T10:18:00.000Z"
+        }
+      }
+    ],
+    "교육기획위원회": [
+      {
+        "committee": "교육기획위원회",
+        "name": "김영희",
+        "role": "부위원장",
+        "party": "더불어민주당",
+        "ggcTitle": "김영희 의원, 어르신 문화·여가활동 지원 제도 마련 모색",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/297936/?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "김영희 경기도의회 교육기획위 부위원장, 노인 이동·문화 프로그램 연...",
+          "url": "https://www.kmaeil.com/news/articleView.html?idxno=653023",
+          "outlet": "kmaeil.com",
+          "pub": "2026-09-29T04:58:00.000Z"
+        }
+      },
+      {
+        "committee": "교육기획위원회",
+        "name": "김영훈",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "김영훈 의원, 지역 직업계고등학교와 지역 산업계의 유기적인 연결과 협력이 중요하다!",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/297934/?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "김영훈 경기도의원, 시흥직업교육협의회 운영회의 참석",
+          "url": "https://www.m-i.kr/news/articleView.html?idxno=2000638",
+          "outlet": "m-i.kr",
+          "pub": "2026-09-29T06:44:00.000Z"
+        }
+      }
+    ]
+  }
+}
