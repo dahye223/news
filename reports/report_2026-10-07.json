@@ -1,0 +1,186 @@
+{
+  "date": "2026-10-07",
+  "total": 11,
+  "order": [
+    "도시환경위원회",
+    "보건복지위원회",
+    "의회운영위원회",
+    "여성가족평생교육위원회",
+    "문화체육관광위원회",
+    "안전행정위원회",
+    "교육기획위원회",
+    "교육행정위원회"
+  ],
+  "groups": {
+    "도시환경위원회": [
+      {
+        "committee": "도시환경위원회",
+        "name": "임창열",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "임창열 의원, 경기도어린이집연합회 집회 현장 찾아...보육 현장 목소리 청취",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/298099/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "경기도의원 87명 평균 재산은 10억4298만 원",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3036013",
+          "outlet": "기호일보",
+          "pub": "2026-09-28T15:02:00.000Z"
+        }
+      }
+    ],
+    "보건복지위원회": [
+      {
+        "committee": "보건복지위원회",
+        "name": "경기도",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "김성기 의원, 경기도사회복지연대와 간담회...복지 후퇴 없도록 엄중하게 보고 있다",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/298097/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "경기도 보육예산 청원 10만명 돌파… 어린이집 집단행동 등 갈등 확산",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3438705",
+          "outlet": "newscj.com",
+          "pub": "2026-10-07T14:28:00.000Z"
+        }
+      }
+    ],
+    "의회운영위원회": [
+      {
+        "committee": "의회운영위원회",
+        "name": "차유미",
+        "role": "의원",
+        "party": "조국혁신당",
+        "ggcTitle": "차유미 의원, “보육예산 27억 빠진 추경... 현장의 희생으로 메워선 안 돼”",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/298096/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "차유미 경기도의원 “보육예산 27억원 빠진 추경… 현장의 희생으로 메...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/10/07/20261007500259?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-10-07T08:18:00.000Z"
+        }
+      },
+      {
+        "committee": "의회운영위원회",
+        "name": "유호준",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "유호준 의원, “차별과 혐오 앞 사회적 소수자 홀로 두지 않겠다”... ‘경기도 평등기본조례’ 제정 촉구",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/298092/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "유호준 경기도의원 “차별과 혐오 앞 사회적 소수자 홀로 두지 않겠다”...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/10/07/20261007500249?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-10-07T07:49:00.000Z"
+        }
+      }
+    ],
+    "여성가족평생교육위원회": [
+      {
+        "committee": "여성가족평생교육위원회",
+        "name": "금종례",
+        "role": "의원",
+        "party": "국민의힘",
+        "ggcTitle": "금종례 의원, 보육 현장 대규모 집회 참석...“보육 예산·지원 즉각 확대해야”",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/298095/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "금종례 경기도의원, 보육 현장 대규모 집회 참석… “보육 예산·지원 즉...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/10/07/20261007500256?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-10-07T08:11:00.000Z"
+        }
+      }
+    ],
+    "문화체육관광위원회": [
+      {
+        "committee": "문화체육관광위원회",
+        "name": "채신덕",
+        "role": "위원장",
+        "party": "더불어민주당",
+        "ggcTitle": "채신덕 문화체육관광위원장, ‘제107회 전국체육대회 경기도선수단 결단식’ 참석... 종합우승 5연패 향한 선수단 격려",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/298094/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "채신덕 문화체육관광위원장, '제107회 전국체육대회 경기도선수단 결단...",
+          "url": "https://www.stnsports.co.kr/news/articleView.html?idxno=323732",
+          "outlet": "stnsports.co.kr",
+          "pub": "2026-10-07T12:19:00.000Z"
+        }
+      }
+    ],
+    "안전행정위원회": [
+      {
+        "committee": "안전행정위원회",
+        "name": "양경석",
+        "role": "위원장",
+        "party": "더불어민주당",
+        "ggcTitle": "양경석 안전행정위원장, 「2026 경기도 소방장비 전시회」 개막식 참석...“도내 소방산업, 세계 시장으로 도약하길”",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/298093/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "양경석 경기도의회 안전행정위원장, ‘2026 경기도 소방장비 전시회’ ...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/10/07/20261007500253?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-10-07T07:58:00.000Z"
+        }
+      },
+      {
+        "committee": "안전행정위원회",
+        "name": "김귀근",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "김귀근 의원, 소방장비 전시회 찾아 현장과 산업 잇는 소방산업 육성 강조",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/298091/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "김귀근 경기도의원, 소방장비 전시회 찾아 현장과 산업 잇는 소방산업 ...",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/10/07/20261007500246?wlog_tag3=naver",
+          "outlet": "서울신문",
+          "pub": "2026-10-07T07:42:00.000Z"
+        }
+      }
+    ],
+    "교육기획위원회": [
+      {
+        "committee": "교육기획위원회",
+        "name": "국중범",
+        "role": "위원장",
+        "party": "더불어민주당",
+        "ggcTitle": "국중범 위원장, “금광중 7·대원중 2·숭신중 3학급...적정한 학생배치인지 다시 살펴야”",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/298089/?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "국중범 경기도의회 교육기획위원장, “성남 중원구 중학교 학급 배치 불...",
+          "url": "https://hbnpress.com/news/view/1065596699103551",
+          "outlet": "hbnpress.com",
+          "pub": "2026-10-07T11:56:00.000Z"
+        }
+      },
+      {
+        "committee": "교육기획위원회",
+        "name": "김영희",
+        "role": "부위원장",
+        "party": "더불어민주당",
+        "ggcTitle": "김영희 의원, 오산 지역 학생 생존수영 운영체계 점검...“안전 중심으로 개선방안 찾아야”",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/298087/?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "김영희 경기도의회 부위원장, 오산 학생 생존수영 운영방식 점검",
+          "url": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160306305945076",
+          "outlet": "siminilbo.co.kr",
+          "pub": "2026-10-07T11:24:00.000Z"
+        }
+      }
+    ],
+    "교육행정위원회": [
+      {
+        "committee": "교육행정위원회",
+        "name": "심상록",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "심상록 의원, 통학안전·학교설립 등 학부모 의견 청취...“적극행정으로 답해야”",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/298088/?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "심상록 경기도의원, 광명 학부모 만나 통학안전·학교 신설 의견 청취",
+          "url": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160306067530756",
+          "outlet": "siminilbo.co.kr",
+          "pub": "2026-10-07T11:16:00.000Z"
+        }
+      }
+    ]
+  }
+}
