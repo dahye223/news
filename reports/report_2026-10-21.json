@@ -1,0 +1,166 @@
+{
+  "date": "2026-10-21",
+  "total": 10,
+  "order": [
+    "교육기획위원회",
+    "도시환경위원회",
+    "교육행정위원회",
+    "여성가족평생교육위원회",
+    "의회운영위원회",
+    "경제노동위원회"
+  ],
+  "groups": {
+    "교육기획위원회": [
+      {
+        "committee": "교육기획위원회",
+        "name": "조병진",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "조병진 의원, 국제교육원 의정부 이전 환영...“경기북부 국제교육 거점 도약 기대”",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/298519/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "경기도의회 조병진 의원, 출연금 정산 결과 예산 반영하는 조례안 검토",
+          "url": "https://www.cnbnews.com/news/articleView.html?idxno=1020451",
+          "outlet": "cnbnews.com",
+          "pub": "2026-10-21T12:18:00.000Z"
+        }
+      },
+      {
+        "committee": "교육기획위원회",
+        "name": "박은경",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "박은경 의원, “경기도교육청 조직개편, 현장 의견수렴과 학교 지원 강화가 우선”",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/298506/?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "박은경 경기도의원, 교육청 조직개편 현장 의견 반영 촉구",
+          "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1104557",
+          "outlet": "discoverynews.kr",
+          "pub": "2026-10-21T02:48:00.000Z"
+        }
+      }
+    ],
+    "도시환경위원회": [
+      {
+        "committee": "도시환경위원회",
+        "name": "안계명",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "안계명 의원, 소형농기계 지원사업, 경기도가 농가 부담 덜고 안전 챙겨야",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/298518/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "경기도의회 안계명 의원, 경기도교육청 명예교권보호전담관 위촉",
+          "url": "https://www.kmaeil.com/news/articleView.html?idxno=655208",
+          "outlet": "kmaeil.com",
+          "pub": "2026-10-21T08:22:00.000Z"
+        }
+      }
+    ],
+    "교육행정위원회": [
+      {
+        "committee": "교육행정위원회",
+        "name": "최미금",
+        "role": "의원",
+        "party": "국민의힘",
+        "ggcTitle": "최미금 의원 좌장 맡은 ‘경기도와 지역사회가 함께 만드는 통학로 보행안전 개선방안’ 경기교육 정책토론회 성료",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/298516/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "최미금 경기도의원, \"도내 257개 학교 통학로 없어\"…보행안전 대책 촉...",
+          "url": "https://www.kmaeil.com/news/articleView.html?idxno=655214",
+          "outlet": "kmaeil.com",
+          "pub": "2026-10-21T08:28:00.000Z"
+        }
+      },
+      {
+        "committee": "교육행정위원회",
+        "name": "정현미",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "정현미 의원, 팔당상수원 규제 개선·상생 지원 위한 도정질의 후속 간담회 개최",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/298512/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "경기도의회 정현미 의원, 팔당 규제지역 주민지원 확대 촉구… 재생에너...",
+          "url": "https://www.lawissue.co.kr/view.php?ud=202610211501265560d94aa4ada6_12",
+          "outlet": "lawissue.co.kr",
+          "pub": "2026-10-21T06:50:00.000Z"
+        }
+      },
+      {
+        "committee": "교육행정위원회",
+        "name": "엄교섭",
+        "role": "부위원장",
+        "party": "더불어민주당",
+        "ggcTitle": "엄교섭 의원, 덕영고 ‘찾아가는 반도체 교실’ 참석... “용인의 미래 이끌 청소년의 도전 응원”",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/298511/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "엄교섭 경기도의원, 용인 반도체 인재 양성 강조...학생 진로교육 지원...",
+          "url": "https://www.kmaeil.com/news/articleView.html?idxno=655217",
+          "outlet": "kmaeil.com",
+          "pub": "2026-10-21T08:32:00.000Z"
+        }
+      }
+    ],
+    "여성가족평생교육위원회": [
+      {
+        "committee": "여성가족평생교육위원회",
+        "name": "신미숙",
+        "role": "부위원장",
+        "party": "더불어민주당",
+        "ggcTitle": "신미숙 의원, 이산중학교 현장 방문...“학생 중심 교육환경 조성해야”",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/298515/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "신미숙 경기도의원, 화성 이산중학교 현장 점검… 시설 개선·통학 문제...",
+          "url": "https://www.kmaeil.com/news/articleView.html?idxno=655220",
+          "outlet": "kmaeil.com",
+          "pub": "2026-10-21T08:36:00.000Z"
+        }
+      },
+      {
+        "committee": "여성가족평생교육위원회",
+        "name": "최순자",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "최순자 의원, 30대 청년과 대담...청년이 꿈꿀 수 있는 보금자리부터",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/298508/?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "최순자 경기도의원, 부모교육 조례안에 청년 의견 반영… 주거 안정 필...",
+          "url": "https://www.kmaeil.com/news/articleView.html?idxno=655116",
+          "outlet": "kmaeil.com",
+          "pub": "2026-10-21T02:18:00.000Z"
+        }
+      }
+    ],
+    "의회운영위원회": [
+      {
+        "committee": "의회운영위원회",
+        "name": "이채명",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "이채명 의원 “청년 건강검진, ‘일하는 취약청년’ 빠져선 안 돼”",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/298513/?cp=1&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "이채명 경기도의원 \"청년 건강검진 지원, 미취업자 넘어 취약 근로청년...",
+          "url": "https://www.newstnt.com/news/articleView.html?idxno=724243",
+          "outlet": "newstnt.com",
+          "pub": "2026-10-21T08:38:00.000Z"
+        }
+      }
+    ],
+    "경제노동위원회": [
+      {
+        "committee": "경제노동위원회",
+        "name": "최보라",
+        "role": "의원",
+        "party": "더불어민주당",
+        "ggcTitle": "최보라 의원, “道, 31개 시·군 공무직 처우 편차 해소해야”",
+        "ggcUrl": "https://www.ggc.go.kr/site/main/xb/lwmkr/lawmakerpressrelease/298507/?cp=2&listType=list&bcId=lawmakerpressrelease&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "article": {
+          "title": "최보라 경기도의원, 31개 시·군 공무직 노동환경 개선 논의",
+          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5074391",
+          "outlet": "shinailbo.co.kr",
+          "pub": "2026-10-21T06:02:00.000Z"
+        }
+      }
+    ]
+  }
+}
